@@ -1,0 +1,1732 @@
+PLAZA ID,PLAZA NAME,PLAZA TYPE,PLAZA CITY,PLAZA STATE,CONCESSIONAIRE
+1002,L and T Vadodra,National,Vadodara,Gujarat,L and T
+2001,IRB Boriach,National,Navsari,Gujarat,IRB
+2002,IRB Charoti,National,Palghar,Maharashtra,IRB
+2003,IRB Bhagwada,National,Valsad,Gujarat,IRB
+2004,IRB Choryasi,National,Surat,Gujarat,IRB
+2005,Ahmedabad Toll Plaza,National,Ahmedabad,Gujarat,AVBOT(IRB)
+2006,Ahmedabad (Ring Road) Toll Plaza,National,Ahmedabad,Gujarat,AVBOT(IRB)
+2007,Nadiad Toll Plaza,National,Kheda,Gujarat,AVBOT(IRB)
+2008,Anand Toll Plaza,National,Anand,Gujarat,AVBOT(IRB)
+2009,Vadodara Toll Plaza,National,Vadodara,Gujarat,AVBOT(IRB)
+2010,Ahmedabad Ring Road 2,National,Ahmedabad,Gujarat,IRB
+2011,Kheda,National,Kheda,Gujarat,IRB
+2012,Vasad,National,Anand,Gujarat,IRB
+5001,Shedung Toll Plaza,State,Shedung,Maharashtra,MIPL(Mumbai-Pune Expressway)
+5002,Khalapur Toll Plaza,State,Khalapur,Maharashtra,MIPL(Mumbai-Pune Expressway)
+5004,Kusgaon Toll Plaza,State,Kusgaon,Maharashtra,MIPL(Mumbai-Pune Expressway)
+5005,Talegaon Toll Plaza,State,Talegaon,Maharashtra,MIPL(Mumbai-Pune Expressway)
+6001,Gegal,National,Ajmer,Rajasthan,Soma
+6002,Pipalaz,National,Ajmer,Rajasthan,Soma
+7001,Manesar Toll Plaza,National,Gurgaon,Haryana,Millinieum City Expressway(MCEPL)
+7002,IGI Toll Plaza,National,Delhi,Delhi,Millinieum City Expressway(MCEPL)
+8001,Jaipur Plaza,National,Jaipur,Rajasthan,GVK
+8002,Kishangarh Plaza,National,Ajmer,Rajasthan,GVK
+9001,Shahjahanpur Toll Plaza,National,Alwar,Rajasthan,Pink City Expressway
+9002,Manoharpura Toll plaza,National,Jaipur,Rajasthan,Pink City Expressway
+9003,Daulatpura Toll Plaza,National,Jaipur,Rajasthan,Pink City Expressway
+10001,Kavalias Toll Plaza,National,Bhilwara,Rajasthan,NHAI
+10002,Jojro Ka Kheda Toll Plaza,National,Chittaurgarh,Rajasthan,NHAI
+10003,Rithola Toll Plaza,National,Chittaurgarh,Rajasthan,NHAI
+10004,Narayanpura Toll Plaza,National,Udaipur,Rajasthan,NHAI
+10005,Paduna Toll Plaza,National,Udaipur,Rajasthan,NHAI
+10006,Khandi Obri Toll Plaza,National,Udaipur,Rajasthan,NHAI
+10007,Vantada Toll Plaza,National,Aravalli,Gujarat,NHAI
+10008,Kathpur Toll Plaza,National,Sabarkatha,Gujarat,NHAI
+13001,SriPerumbadur,National,Kanchipuram,Tamil Nadu,NHAI
+13002,Chennasamaduram,National,Vellore,Tamil Nadu,NHAI
+14001,Ambala Chandigarh,National,Sahibzada Ajit Singh Nagar,Punjab,GMR
+15001,Pantangi,National,Nalgonda,Telangana,GMR
+15002,Koralaphad,National,Nalgonda,Telangana,GMR
+15003,Chillakallu,National,Krishna,Andhra Pradesh,GMR
+16001,Vanagiri,National,Koppal,Karnataka,GMR
+16002,Shahapur,National,Koppal,Karnataka,GMR
+16003,Hitnal,National,Koppal,Karnataka,GMR
+17001,Karjeevanhally Toll Plaza,National,Tumkur,Karnataka,IRB TCBOT
+17002,Guilalu Toll Plaza,National,Chitradurga,Karnataka,IRB TCBOT
+18001,Vikkravandi Toll Plaza,National,Villupuram,Tamil Nadu,Ulundurpet Expressway(IDFC)
+19001,SENGURICHI TOLL PLAZA,National,Villupuram,Tamil Nadu,Trichy Tollways Pvt Ltd
+19002,THIRUMANDURAI TOLL PLAZA,National,Perambalur,Tamil Nadu,Trichy Tollways Pvt Ltd
+20001,SURAPATTU TOLL PLAZA,National,Tiruvallur,Tamil Nadu,NHAI
+20002,VANAGARAM TOLL PLAZA,National,Tiruvallur,Tamil Nadu,NHAI
+21001,Amakthadu toll plaza,National,Kurnool,Andhra Pradesh,MEP Infra Projects
+21002,Kasepalli toll plaza,National,Anantapuram,Andhra Pradesh,MEP Infra Projects
+21003,Marur toll plaza,National,Anantapuram,Andhra Pradesh,MEP Infra Projects
+22001,Kappalur,National,Madurai,Tamil Nadu,Raima Toll Road(MEP)
+22002,Etturvattam,National,Virudhunagar,Tamil Nadu,Raima Toll Road(MEP)
+22003,Salaipudur,National,Thoothukudi,Tamil Nadu,Raima Toll Road(MEP)
+22004,Nanguneri,National,Tirunelveli,Tamil Nadu,Raima Toll Road(MEP)
+23001,Nandgaon Toll Plaza,National,Amravati,Maharashtra,IRB
+24001,MANSAR TOLL PLAZA,National,Nagpur,Maharashtra,Oriental
+24002,KAMPTEE KANHAN BYPASS CHECK TOLL PLAZA,National,Nagpur,Maharashtra,Oriental
+24003,NAGPUR BYPASS CHECK TOLL PLAZA,National,Nagpur,Maharashtra,Oriental
+24004,BORKHEDI TOLL PLAZA,National,Wardha,Maharashtra,Oriental
+25001,Karanja Toll Plaza,National,Wardha,Maharashtra,Oriental
+26001,Korai Toll Plaza,National,Agra,Uttar Pradesh,Oriental
+27001,Khalghat Toll Plaza,National,Dhar,Madhya Pradesh,Oriental
+28001,Barajore toll plaza,National,Kanpur Dehat,Uttar Pradesh,Oriental
+28002,Anantram Toll Plaza,National,Auraiya,Uttar Pradesh,Oriental
+29001,Laxamannath Plaza,National,Bangalore Rural,Karnataka,ILFS
+29002,Rampura Plaza,National,West Medinipur,West Bengal,ILFS
+30001,LADPALWAN TOLL PLAZA,National,Pathankot,Punjab,IRB
+30002,WARYAM NANGAL TOLL PLAZA,National,Amritsar,Punjab,IRB
+31001,Barkheda Toll Plaza,National,Jaipur,Rajasthan,IRB
+31002,Sonwa Toll Plaza,National,Tonk,Rajasthan,IRB
+32001,Omalur Toll Plaza,National,Salem,Tamil Nadu,IRB
+33001,Daffi Toll Plaza,National,Varanasi,Uttar Pradesh,Soma Isolux
+33002,Mohania Toll Plaza,National,Kaimur,Bihar,SOMA
+33003,Sasaram Toll Plaza,National,Rohtas,Bihar,SOMA
+34001,Raikal Toll Plaza,National,Mahabubnagar,Telangana,Jadcherla Expressways Pvt. Ltd
+35001,ELECTRONIC CITY Phase 1,National,Bangalore Urban,Karnataka,Gaziabad Aligarh Expressway Pvt Ltd
+35002,ATTIBELLE,National,Bangalore Urban,Karnataka,BETL
+36001,Samayapuram Toll Plaza,National,Tiruchirappalli,Tamil Nadu,Indu Navayuga
+37001,Boothakudi,National,Pudukkottai,Tamil Nadu,Eagle Infra
+37002,Chittampatti,National,Madurai,Tamil Nadu,Eagle Infra
+38001,Pithai Toll Plaza,National,Kheda,Gujarat,Essel Infra
+38002,Vavadi Toll Plaza,National,Panchmahal,Gujarat,Essel Infra
+39001,L and T PANIPAT,National,Panipat,Haryana,L and T
+40001,Khaniwade Toll Plaza,National,Palghar,Maharashtra,IRB
+41001,JATL Dhilwan Toll Plaza,National,Kapurthala,Punjab,IVRCL
+41002,JATL Nijjerpura Toll Plaza,National,Amritsar,Punjab,IVRCL
+42001,Vijayamangalam Toll Plaza,National,Erode,Tamil Nadu,IVRCL
+43001,Vaiguntham Toll Plaza,National,Salem,Tamil Nadu,IVRCL
+44001,TASAWADE TOLL PLAZA,National,Satara,Maharashtra,MSRDCL
+44002,Kini Toll Plaza,National,Kolhapur,Maharashtra,MSRDCL
+45001,Guduru Toll Plaza,National,Nalgonda,Telangana,Sadbhav
+46001,Bijapur Toll Plaza,National,Bijapur,Karnataka,Sadbhav
+46002,Nagarhalla Toll Plaza,National,Bagalkot,Karnataka,Sadbhav
+47001,Tatiawas Toll Plaza,National,Jaipur,Rajasthan,Reliance
+48001,"Sullurpet Plaza (NH- 16), (old NH-5)",National,Nellore,Andhra Pradesh,SWARNA TOLLWAY PRIVATE LIMITED
+48002,"Budhanam Plaza (NH- 16),(old NH-5)",National,Nellore,Andhra Pradesh,SWARNA TOLLWAY PRIVATE LIMITED
+48003,"Nellore Plaza (NH- 16), (old NH-5)",National,Nellore,Andhra Pradesh,SWARNA TOLLWAY PRIVATE LIMITED
+48004,"Keesara Plaza (NH-65), (old NH-9)",National,Vijaywada,Andhra Pradesh,SWARNA TOLLWAY PRIVATE LIMITED
+49001,Kaza Toll Plaza Mangalgiri,National,Guntur,Andhra Pradesh,IJM
+50001,Niyamatpur Ekrotiya Toll Plaza,National,Moradabad,Uttar Pradesh,Moradabad Bareilly Expressway Limited
+50002,Thiriya Khetal Toll Plaza,National,Bareilly,Uttar Pradesh,Moradabad Bareilly Expressway Limited
+51001,Sawaleshwar Toll Plaza,National,Solapur,Maharashtra,ILFS  and  ITNL
+51002,Varwade Toll Plaza,National,Solapur,Maharashtra,ILFS  and  ITNL
+52001,Pithadiya Toll Plaza,National,Rajkot,Gujarat,ILFS
+52002,Bharudi Toll Plaza,National,Rajkot,Gujarat,ILFS
+53001,Gondkhairi Plaza,National,Nagpur,Maharashtra,Atlanata Infra
+54001,Patas Plaza,National,Pune,Maharashtra,TRIL
+54002,Sardewadi Plaza,National,Raigad,Maharashtra,TRIL
+55001,Ponnambalapatti Plaza,National,Tiruchirappalli,Tamil Nadu,Reliance – TDTRL
+56001,Kozhinjiipatti Plaza,National,Dindigul,Tamil Nadu,Reliance TN -DSTRL
+57001,Rasampalayam Plaza,National,Namakkal,Tamil Nadu,Reliance – NKTRL
+58001,Mettupatti Plaza,National,Salem,Tamil Nadu,Reliance - SUTRL
+58002,Nathakkarai Plaza,National,Salem,Tamil Nadu,Reliance - SUTRL
+58003,Veeracholapuram Plaza,National,Villupuram,Tamil Nadu,Reliance - SUTRL
+59001,Thiruparaithurai Plaza,National,Tiruchirappalli,Tamil Nadu,Reliance - TKTRL
+59002,Manavasi Plaza,National,Karur,Tamil Nadu,Reliance -TKTRL
+60001,Krishnagiri Plaza,National,Krishnagiri,Tamil Nadu,Reliance-HKTRL
+61001,Anewadi Toll Plaza,National,Satara,Maharashtra,Reliance-PSTRL
+61002,Khed-Shivapur Toll Plaza,National,Pune,Maharashtra,Reliance-PSTRL
+62001,Srinagar Toll Plaza,National,Palwal,Haryana,Reliance-DATRL
+62002,Mahuvan Toll Plaza,National,Mathura,Uttar Pradesh,Reliance-DATRL
+63001,Bhatwada Toll Plaza,National,Dahod,Gujarat,BGTL Tollway Limited
+63101,Bellupada,National,Icchapuram,Andhra Pradesh,NHAI
+64001,Saukala Toll Plaza,National,Aurangabad,Bihar,NHAI
+65001,Madapam,National,Srikakulam,Andhra Pradesh,NHAI
+66001,Chilakpelam,National,Srikakulam,Andhra Pradesh,NHAI
+67001,Nathavalasa,National,Vizianagaram,Andhra Pradesh,NHAI
+68001,Agnampadi,National,Vishakhapatnam,Andhra Pradesh,NHAI
+69001,Vempadu,National,Vishakhapatnam,Andhra Pradesh,NHAI
+70001,Krishnavaram,National,East Godavari,Andhra Pradesh,NHAI
+72001,Kalaparru,National,West Godavari,Andhra Pradesh,NHAI
+72002,Pottipadu,National,Krishna,Andhra Pradesh,NHAI
+73001,Bollapalli Toll Plaza,National,Prakasam,Andhra Pradesh,KMC and BSCPL Infrastructure Ltd
+73002,Tangatur Toll Plaza,National,Prakasam,Andhra Pradesh,KMC and BSCPL Infrastructure Ltd
+73003,Musunur Toll Plaza,National,Nellore,Andhra Pradesh,KMC and BSCPL Infrastructure Ltd
+74001,Pippalwada,National,Adilabad,Telangana,NHAI
+75001,Rolmamda,National,Adilabad,Telangana,NHAI
+76001,Gamjal,National,Adilabad,Telangana,NHAI
+77001,Manoharabad,National,Medak,Telangana,NHAI
+78001,Indalwai,National,Nizamabad,Telangana,Navayuga
+79001,Sakapur Toll plaza,National,Mahabubnagar,Telangana,L and T
+80001,Pullur,National,Mahabubnagar,Telangana,NHAI
+81001,Panchvati Colony(Vishakapatnam Port Connectivity),National,Vishakhapatnam,Andhra Pradesh,NHAI
+82001,Goshtani Gate of Navy(Vishakapatnam Port Connectivity),National,Vishakapatnam,Andhra Pradesh,NHAI
+84001,Hariabara,National,Araria,Bihar,SMS
+85001,Asanpur Toll Plaza,National,Supaul,Bihar,SMS
+87001,Maithi,National,Muzaffarpur,Bihar,SMS
+88001,Parsoni Khem,National,Purvi Champaran,Bihar,NHAI
+90001,Maranga,National,Purnia,Bihar,NHAI
+90002,Kharik,National,Bhagalpur,Bihar,NHAI
+91001,Durg Bypass,National,Durg,Chhattisgarh,M/s SMS Shivnath Infrastructure Pvt. Ltd.
+92001,Thakurtolla toll plaza,National,Rajnandgaon,Chhattisgarh,Ashoka Buildcon
+94001,KHEMANA TOLL PLAZA,National,Banaskantha,Gujarat,NHAI
+95001,Varahi Toll Plaza,National,Patan,Gujarat,PATEL HIGHWAY MANAGEMENT PVT. LTD.
+95002,Makhel Toll Plaza,National,Kutch,Gujarat,PATEL HIGHWAY MANAGEMENT PVT. LTD.
+95003,Bhiladi Toll Plaza,National,Banaskantha,Gujarat,PATEL HIGHWAY MANAGEMENT PVT. LTD.
+95004,Bhalgam Toll Plaza,National,Banaskantha,Gujarat,PATEL HIGHWAY MANAGEMENT PVT. LTD.
+96001,Surajbari Toll Plaza,National,Kutch,Gujarat,NHAI
+97001,Vaghasiya Toll Plaza,National,Morbi,Gujarat,NHAI
+98001,Vanana Toll Plaza,National,Porbandar,Gujarat,NHAI
+99001,Dhumiyani Toll Plaza,National,Rajkot,Gujarat,NHAI
+100001,Samakhiali,National,Kutch,Gujarat,L and T
+102001,UNDVARIYA TOLL PLAZA,National,Sirohi,Rajasthan,NHAI
+103001,Jat Gangaicha Toll Plaza,National,Rewari,Haryana,Kurukshetra Expressways Limited
+103002,Dighal Toll Plaza,National,Jhajjar,Haryana,Kurukshetra Expressways Limited
+104001,Makrauli Kalan Toll Plaza,National,Rohtak,Haryana,SADBHAV
+104002,Dahar Toll Plaza,National,Panipat,Haryana,Sadbhav
+106001,Bann Toll Plaza,National,Udhampur,J and K,
+107001,Rasoiya Dhamna Toll Plaza,National,Hazaribagh,Jharkhand,NHAI
+107002,Ghanghri Toll Plaza,National,Giridih,Jharkhand,NHAI
+108001,HAZARIBAGH-RANCHI EXPRESSWAY (Pundag),National,Ranchi,Jharkhand,NHAI
+109001,Kognoli,National,Belagavi,Karnataka,NHAI
+110001,Hattargi,National,Belagavi,Karnataka,NHAI
+111001,Hirebgewadi toll plaza,National,Belagavi,Karnataka,Ashoka Buildcon
+112001,Bankapur,National,Haveri,Karnataka,NHAI
+113001,Chalageri,National,Haveri,Karnataka,NHAI
+114001,Hebbalu,National,Davanagere,Karnataka,NHAI
+115001,Kulumapalya toll plaza,National,Bangalore Rural,Karnataka,(Neelmangla Tumkur) Jass Tollways
+115002,Chokkenahalli toll plaza,National,Tumkur,Karnataka,(Neelmangla Tumkur) Jass Tollways
+116001,Plaza 1 @ Km 14+825,National,Bangalore Rural,Karnataka,Navayuga Bengalooru Tollway Pvt Ltd
+116003,Devanahalli Toll Plaza,National,Bangalore Rural,Karnataka,Navayuga
+117001,Bagepalli Toll Plaza,National,Chikballapur,Karnataka,NHAI
+118001,Nelamangala Toll Plaza,National,Bangalore Rural,Karnataka,LANCO DEVANHALI TOLLWAY LTD
+118002,Bellur Toll Plaza,National,Mandya,Karnataka,LANCO DEVANHALI TOLLWAY LTD
+119001,Hoskote Toll Plaza,National,Bangalore Rural,Karnataka,LANCO HOSKOTE TOLLWAY LTD
+119002,Mulbagal Toll Plaza,National,Kolar,Karnataka,LANCO HOSKOTE TOLLWAY LTD
+120001,Shantigrama Toll Plaza,National,Hassan,Karnataka,L and T
+120002,Kadabhalli (Kirasave) Toll Plaza,National,Mandya,Karnataka,L and T
+121001,Brahamarakotlu,National,Dakshina Kannada,Karnataka,NHAI
+123001,Paliyekkara Toll plaza,National,Thrissur,Kerala,Guruvayoor
+124001,Kumbalam Toll Plaza,National,Ernakulam,Kerala,Kochi Aror Tollways
+125002,Choundha,National,Morena,Madhya Pradesh,Agra Gwalior Pathways
+125003,Baretha or Jajau,National,Agra,Uttar Pradesh,Agra Gwalior Pathways
+126001,Mehra,National,Gwalior,Madhya Pradesh,Path
+127001,Malthone,National,Sagar,Madhya Pradesh,DPJ DRA Tollways
+127002,Chitora,National,Sagar,Madhya Pradesh,DPJ DRA Tollways
+127003,Titarpani,National,Sagar,Madhya Pradesh,DPJ DRA Tollways
+127004,Bakori,National,Damoh,Madhya Pradesh,DPJ DRA Tollways
+128001,Allonia,National,Seoni,Madhya Pradesh,NHAI
+129001,Ramnagar,National,Shivpuri,Madhya Pradesh,Jhansi Baran Pathways
+129002,Raksha,National,Jhansi,Uttar Pradesh,Jhansi Baran Pathways
+130001,Guna,National,Guna,Madhya Pradesh,Guna Infra
+131001,Jamli Toll Pllaza,National,Barwani,Madhya Pradesh,Khalghat Sendhwa Tollways Pvt Ltd
+132001,IDTL Toll Plaza-A,National,Indore,Madhya Pradesh,Indore Dewas Tollways
+132002,IDTL Toll Plaza-B,National,Dewas,Madhya Pradesh,Indore Dewas Tollways
+134001,Kelapur,National,Yavatmal,Maharashtra,NHAI
+134002,Daroada,National,Wardha,Maharashtra,Anuj Kumar Aggarwal
+137001,Mathni,National,Nagpur,Maharashtra,JMC
+138001,Sendurwafa toll plaza,National,Bhandara,Maharashtra,Ashoka Buildcon
+139001,Shirpur,National,Dhule,Maharashtra,DPTL
+139002,Songir,National,Dhule,Maharashtra,DPTL
+140001,Chandwad toll plaza,National,Nashik,Maharashtra,Ircon Soma
+140002,Laling toll plaza,National,Dhule,Maharashtra,Ircon Soma
+141001,Baswant Toll Plaza,National,Nashik,Maharashtra,NHAI
+142001,Ghoti toll plaza,National,Nashik,Maharashtra,Gammon India
+142002,Arjunalli toll plaza,National,Thane,Maharashtra,Gammon India
+144001,Diengpasoh Toll Plaza,National,Ri-Bhoi,Meghalaya,
+146001,SERGARH TOLL PLAZA,National,Balasore,Odisha,NHAI
+147001,PANIKOILI TOLL PLAZA,National,Jajpur,Odisha,NHAI
+148001,Manguli Toll Plaza,National,Cuttack,Odisha,Shree Jagannath Expressway Pvt Ltd.
+149001,Gudipada or Gangapada Toll Plaza,National,Khordha,Odisha,NHAI
+150001,Gurapali,National,Ganjam,Odisha,NHAI
+151001,Sambalpur Baragarh Tollways,National,Bargarh,Odisha,Ashoka Buildcon
+152001,Srirampur toll plaza,National,Jajpur,Odisha,NHAI
+154001,Gharonda Toll Plaza,National,Karnal,Haryana,Soma Isolux NH One Tollway Pvt. Ltd.
+154002,Sambhu Toll Plaza,National,Ambala,Haryana,Soma Isolux NH One Tollway Pvt. Ltd.
+154003,Ladowal Toll Plaza,National,Ludhiana,Punjab,Soma Isolux NH One Tollway Pvt. Ltd.
+155001,Chandimandir Toll Plaza,National,Panchkula,Haryana,JP Infra
+156001,Chiddan Toll Plaza,National,Amritsar,Punjab,NHAI
+157001,BSC-C and C Kurali Toll Plaza,National,Rupnagar,Punjab,BSC
+158001,Harsa Mansar Toll Plaza,National,Hoshiarpur,Punjab,NHAI
+159001,Chollang Toll Plaza,National,Hoshiarpur,Punjab,NHAI
+160001,Similiya,National,Kota,Rajasthan,M/S Kota Baran Toll Ways
+160002,Fatehpur,National,Baran,Rajasthan,M/S Kota Baran Toll Ways
+161001,Bassi,National,Chittaurgarh,Rajasthan,Chittorgarh Kota Toll Ways
+161002,Aroli,National,Bhilwara,Rajasthan,Chittorgarh Kota Toll Ways
+161003,Dhaneshwar,National,Bundi,Rajasthan,Chittorgarh Kota Toll Ways
+162001,Malera,National,Sirohi,Rajasthan,Udaipur Pathways
+162002,Gogunda,National,Udaipur,Rajasthan,Udaipur Pathways
+163001,Ludhwai Toll Plaza,National,Bharatpur,Rajasthan,M/s Madhucon House Agra – Jaipur Expressways Ltd.
+163002,Amoli Toll Plaza,National,Bharatpur,Rajasthan,M/s Madhucon House Agra – Jaipur Expressways Ltd.
+164001,Sikandra Toll Plaza,National,Dausa,Rajasthan,JAIPUR MAHUA TOLLWAY PRIVATE LIMITED
+164002,Rajadhok Toll Plaza,National,Jaipur,Rajasthan,JAIPUR MAHUA TOLLWAY PRIVATE LIMITED
+165001,Mundiyar,National,Baran,Rajasthan,Jhansi Baran Pathways
+166001,Akhepura,National,Sikar,Rajasthan,NHAI
+167001,Vaniyambadi Toll Plaza,National,Vellore,Tamil Nadu,L and T Krishnagiri Walajahpet Tollway Limited
+167002,Pallikonda Toll Plaza,National,Vellore,Tamil Nadu,L and T Krishnagiri Walajahpet Tollway Limited
+168001,Nallur Toll Plaza,National,Tiruvallur,Tamil Nadu,L and T Chennai Tada Tollway Limited
+169001,L and T Krishnagiri Thopur Toll Plaza,National,Dharmapuri,Tamil Nadu,L and T
+170001,Velanchettiyur,National,Dindigul,Tamil Nadu,Madhucon Infra
+173001,Paranur,National,Kanchipuram,Tamil Nadu,NHAI
+174001,Athur,National,Kanchipuram,Tamil Nadu,NHAI
+176001,Valvanthankottai,National,Tiruchirappalli,Tamil Nadu,Madhucon Infra
+176002,Elliyarpathy,National,Virudhunagar,Tamil Nadu,Madhucon Infra
+176003,Pudurpandiyapuram,National,Thoothukudi,Tamil Nadu,Madhucon Infra
+177001,Pondicherry Tindivanam Toll Plaza,National,Villupuram,Tamil Nadu,Pondicherry Tollways
+178001,Lembalakudi,National,Pudukkottai,Tamil Nadu,NHAI
+178002,Lechchumanapatti,National,Pudukkottai,Tamil Nadu,NHAI
+178003,VAGAIKULAM TOLL PLAZA,National,Thoothukudi,Tamil Nadu,NHAI
+180001,Tundla Toll Plaza,National,Firozabad,Uttar Pradesh,IRB
+180002,Gurau (Formerly Semra Atikabad) Toll Plaza,National,Firozabad,Uttar Pradesh,IRB
+181001,Babina Toll Plaza,National,Jhansi,Uttar Pradesh,Sh. Keshav Agarwal
+181002,Vighakhet Toll Plaza,National,Lalitpur,Uttar Pradesh,M/s Balaji Enterprises
+182001,Salemgarh Toll Plaza,National,Kushinagar,Uttar Pradesh,M/s Gorakhpur Kasia Tollways Pvt Ltd.
+183001,Muzaina Hetim Toll Plaza,National,Kushinagar,Uttar Pradesh,M/s Gorakhpur Kasia Tollways Pvt Ltd.
+184001,Tendua Toll Plaza,National,Gorakhpur,Uttar Pradesh,M/s Gorakhpur Kasia Tollways Pvt Ltd.
+185001,Chaukadi Toll Plaza,National,Basti,Uttar Pradesh,Ayodhya Gorakhpur SMS Toll Pvt. Ltd. (AGSTPL)
+186001,Mandawnagar Toll Plaza,National,Basti,Uttar Pradesh,Ayodhya Gorakhpur SMS Toll Pvt. Ltd. (AGSTPL)
+187001,Nawabganj Toll Plaza,National,Bareilly,Uttar Pradesh,PNC Kanpur-Ayodhya Tollways Pvt. Ltd.
+187002,Ahmadpur Toll Plaza,National,Barabanki,Uttar Pradesh,PNC Kanpur-Ayodhya Tollways Pvt. Ltd.
+187003,Ronahi Toll Plaza,National,Faizabad,Uttar Pradesh,PNC Kanpur-Ayodhya Tollways Pvt. Ltd.
+188001,Chamari Toll Plaza,National,Jalaun,Uttar Pradesh,M/s Eagle Infra India Ltd
+189001,AIT Toll Plaza,National,Jalaun,Uttar Pradesh,M/s Welcome Infra
+190001,SEMRI Toll Plaza,National,Jhansi,Uttar Pradesh,M/s Bhargavendra Nath Upadhyaya
+191001,Dasna Toll plaza,National,Ghaziabad,Uttar Pradesh,M/s Adycon Infrastructures Pvt Ltd
+192001,Naini Toll Plaza,National,Allahabad,Uttar Pradesh,M/s Bholanath Rajpati Shukla
+193001,Brijghat Toll Plaza,National,Hapur,Uttar Pradesh,Gaziabad Aligarh Expressway Pvt Ltd
+194001,Joya Toll Plaza,National,Amroha,Uttar Pradesh,M/s Bholanath Rajpati Shukla
+196001,Itaunja Toll Plaza,National,Sitapur,Uttar Pradesh,Lucknow Sitapur Expressways Limited
+197001,Khairabad Toll Plaza,National,Sitapur,Uttar Pradesh,Lucknow Sitapur Expressways Limited
+198001,Katoghan Toll Plaza,National,Fatehpur,Uttar Pradesh,M/s Bholanath Rajpati Shukla
+199001,KOKHRAJ (Sirohi) Toll Plaza,National,Kaushambi,Uttar Pradesh,Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)
+199002,HANDIYA (Sujala ) Toll Plaza,National,Allahabad,Uttar Pradesh,Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)
+199003,Nawabganj Toll Plaza,National,Allahabad,Uttar Pradesh,Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)
+199004,SORAON Toll Plaza,National,Allahabad,Uttar Pradesh,Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)
+199005,SAHSON Toll Plaza,National,Allahabad,Uttar Pradesh,Allahabad Bypass Pathways Pvt. Ltd. (M/s Eagle Infra India Ltd.)
+200001,Lalanagar Toll Plaza,National,Sant Ravidas Nagar,Uttar Pradesh,M/s Bholanath Rajpati Shukla
+201001,Madrak Toll Plaza,National,Aligarh,Uttar Pradesh,Brijbhoomi Expressway Pvt. Ltd.
+201002,Baros Toll Plaza,National,Hathras,Uttar Pradesh,Brijbhoomi Expressway Pvt. Ltd.
+202001,Badauri Toll Plaza,National,Fatehpur,Uttar Pradesh,M/s Sahkar Global
+203001,Palsit,National,Bardhaman,West Bengal,NHAI
+203002,Dankuni,National,Hooghly,West Bengal,NHAI
+204001,Rajchandrapur Toll Plaza,National,Howrah,West Bengal,Second Vivekananda Bridge Tollway Company Private Limited
+205001,Jaladhulagori toll plaza,National,Howrah,West Bengal,Ashoka Buildcon
+205002,Debra toll plaza,National,West Medinipur,West Bengal,Ashoka Buildcon
+206001,Paschim Madati,National,Darjeeling,West Bengal,NHAI
+207001,Surjapur,National,Uttar Dinajpur,West Bengal,NHAI
+208001,Sonapetya,National,Purba Medinipur,West Bengal,NHAI
+209001,Beliyad toll plaza,National,Dhanbad,Jharkhand,M/s IL and FS
+210001,Chandermore Plaza,National,Murshidabad,West Bengal,Barahmpur-Farakka Tollway Pvt. Ltd.
+210002,Shibpur Plaza,National,Murshidabad,West Bengal,Barahmpur-Farakka Tollway Pvt. Ltd.
+211001,Barsoni Toll Plaza,National,Purnia,Bihar,NHAI
+212001,Laxmipuram,National,Srikakulam,Andhra Pradesh,NHAI
+213001,Gadoi Toll Plaza,National,Junagadh,Gujarat,Jetpur Somnath Tollways Private Limited
+213002,Dari Toll Plaza,National,Gir Somnath,Gujarat,Jetpur Somnath Tollways Private Limited
+214001,Khambara Toll Plaza,National,Betul,Madhya Pradesh,Oriental Nagpur Betul Highway Pvt ltd
+214002,Milanpur Toll Plaza,National,Betul,Madhya Pradesh,Oriental Nagpur Betul Highway Pvt ltd
+215001,Aliyapur Toll Plaza,National,Kanpur Nagar,Uttar Pradesh,PNC Kanpur Highways Ltd.
+215002,Khanna Toll Plaza,National,Hamirpur,Uttar Pradesh,PNC Kanpur Highways Ltd.
+216001,Sivaya Toll Plaza,National,Meerut,Uttar Pradesh,Western UP Tollway Ltd.
+217001,Bhatia Toll Plaza,National,Surat,Gujarat,Soma Isolux Surat Hazira Tollway Pvt. Ltd.
+217002,Mandal Toll Plaza,National,Tapi,Gujarat,Soma Isolux Surat Hazira Tollway Pvt. Ltd.
+218001,Dakhina Shekpur Toll Plaza,National,Rae Bareli,Uttar Pradesh,Arya Toll Infra Limited
+219001,Mokha Toll Plaza,National,Kutch,Gujarat,Reliance
+220001,Raipur,National,Pali,Rajasthan,L and T
+220002,Indranagar,National,Pali,Rajasthan,L and T
+220003,BIRAMI,National,Pali,Rajasthan,L and T
+220004,UTHMAN,National,Sirohi,Rajasthan,L and T
+230001,IVRCL Chengapally Tollways Limited,National,Tiruppur,Tamil Nadu,Concessionaire
+231001,Methoon Toll Plaza,National,Jhalawar,Rajasthan,NHAI
+232001,Pipili Toll Plaza,National,Puri,Odisha,Bhubaneswar Expressway Pvt. Ltd
+233001,Kishorepura Toll Plaza,National,Kota,Rajasthan,GVK
+234001,Palempalli Toll Plaza,National,Kadapa,Andhra Pradesh,Rayalasema Expressway Private Limited
+234002,Chagalmarri Toll Plaza,National,Kurnool,Andhra Pradesh,Rayalasema Expressway Private Limited
+235001,Mandawara Toll Plaza,National,Rajsamand,Rajasthan,Shreenathji Udaipur Tollway Pvt Ltd
+235002,Negadiya Toll Plaza,National,Rajsamand,Rajasthan,Shreenathji Udaipur Tollway Pvt Ltd
+237001,Pahammawlein Toll Plaza,National,Ri-Bhoi,Meghalaya,
+238001,Chikhalikala,National,Betul,Madhya Pradesh,NHAI
+238002,Fulara,National,Seoni,Madhya Pradesh,NHAI
+238003,Jungawani,National,Chhindwara,Madhya Pradesh,NHAI
+238004,Jaitpur,National,Seoni,Madhya Pradesh,NHAI
+239001,Kelwad,National,Nagpur,Maharashtra,NHAI
+239100,LUHARLI Toll plaza,National,Gautam Buddh Nagar,Uttar Pradesh,Gaziabad Aligarh Expressway Pvt Ltd
+239101,GABHANA Tollplaza,National,Aligarh,Uttar Pradesh,Gaziabad Aligarh Expressway Pvt Ltd
+239200,S.V Puram Toll Plaza,National,Chittoor,Andhra Pradesh,Transtroy
+239201,Pattarai Toll Plaza,National,Tiruvallur,Tamil Nadu,Transtroy
+239300,Unguturu Toll Plaza,National,West Godavari,Andhra Pradesh,NHAI
+239301,Eethakota at Km.946.300,National,East Godavari,Andhra Pradesh,NHAI
+239400,Rohad Toll Plaza,National,Rohtak,Haryana,West Haryana Highways Project Pvt. Ltd.
+239500,Surathkal Toll Plaza,National,Dakshina Kannada,Karnataka,NHAI
+239600,Nangli Toll Plaza,National,Ri-Bhoi,Meghalaya,
+239700,PamPamPallam Toll Plaza,National,Palakkad,Kerala,KNR Walayar Tollways Pvt Ltd
+239800,Balgudar Toll Plaza,National,Lakhisarai,Bihar,NHAI
+239900,Raje Toll Plaza (T-2),National,Darbhanga,Bihar,SMS
+240000,Patanswangi Toll Plaza,National,Nagpur,Maharashtra,NHAI
+241200,Bhiknoor Toll Plaza,National,Nizamabad,Telangana,NHAI
+241300,Runni Shaidpur Toll Plaza,National,Sitamarhi,Bihar,NHAI
+241400,Guabari Toll Plaza,National,Alipurduar,West Bengal,NHAI
+241601,Badarpur faridabad Toll plaza,National,Faridabad,Haryana,Badarpur Faridabad Tollway ltd
+241700,Chhuhipali Toll Plaza,National,Mahasamund,Chhattisgarh,BSCPL Aurang Tollway Limited
+241701,Dhank Toll Plaza,National,Mahasamund,Chhattisgarh,BSCPL Aurang Tollway Limited
+241800,Nuruddinpur toll plaza,National,Amethi,Uttar Pradesh,Khalatkaar Constructions
+241801,Kunwarpur,National,Jaunpur,Uttar Pradesh,Vinayendranath Upadhyay
+241900,Lakholi Toll Plaza,National,Raipur,Chhattisgarh,Raipur Expressways Limited
+242000,Madina Toll Plaza,National,Rohtak,Haryana,Rohtak Hissar Tollway Private Limited/
+242001,Mayar Toll Plaza,National,Hisar,Haryana,Rohtak Hissar Tollway Private Limited/
+243000,Rupakheda Toll Plaza,National,Chittaurgarh,Rajasthan,Bhilwara Rajsamand Tollway Private Limited
+243001,Mujras Toll Plaza,National,Ahmedabad,Gujarat,Bhilwara Rajsamand Tollway Private Limited
+244000,18th Mile Toll Plaza,National,Ri-Bhoi,Meghalaya,
+244001,Gazole Toll Plaza,National,Ri-Bhoi,Meghalaya,
+245001,SONWAY Toll Plaza,National,,Madhya Pradesh,Oriental Pathways(Indore) PVT LTD
+257001,Sasthan Toll Plaza,National,Sasthan,Karnataka,Navayuga
+257002,Hejamadi Toll Plaza,National,Hejamadi,Karnataka,NAVAYUGA UDUPI TOLLWAY PVT LTD
+257003,talapady toll plaza,National,Talapady,Karnataka,NAVAYUGA UDUPI TOLLWAY PVT LTD
+280001,Murlitol,National,Barauni,Bihar,KNR Tollways Pvt. Ltd.
+284001,Mahant Maniyari,National,Muzaffarpur,Bihar,KNR Muzaffarpur Baraunitollway Pvt Ltd
+311001,Akshardham Plaza DME KM 2500,National,New Delhi,Delhi,NHAI
+311002,Ghazipur Plaza DME KM 7500,National,New Delhi,Delhi,NHAI
+311003,Sarai Kale Khan DME KM 0000,National,Delhi,Delhi,NHAI
+311004,CWG Flyover Plaza DME KM 1500,National,Delhi,Delhi,NHAI
+311005,Indirapuram Plaza DME KM 9500,National,Delhi,Delhi,NHAI
+312001,Narwana,National,Dharamgarh,Haryana,IRB
+312002,Bado patti,National,Bado patti,Haryana,IRB
+312003,Chaudhariwas,National,Chaudhariwas,Haryana,IRB
+312004,Bhavdeen Plaza,National,Sirsa,Haryana,NHAI
+312005,Khuian Malkna,National,Sirsa,Haryana,NHAI
+312006,Main Plaza Village Jakhauli,National,Jakhauli,Haryana,Main Plaza Village Jakhauli
+312007,Maujpur,National,Maujpur,Haryana,Maujpur
+312009,Chhajju Nagar,National,Chhajju Nagar,Haryana,Chhajju Nagar
+312010,MilkMajra,National,Shahjadpur,Haryana,MilkMajra
+312012,Khatkar Toll plaza,National,Narwana,Haryana,NHAI
+312013,Saini Majra Toll plaza,National,Saini Majra,Haryana,NHAI
+312014,Thana Village Toll plaza,National,Kaithal,Haryana,NHAI
+312016,Jaloli  Fee plaza,National,Jaloli,Haryana,NHAI
+312017,Bhavdeen plaza,National,Sirsa,Haryana,NHAI
+312018,Khuian Malkna,National,Sirsa,Haryana,NHAI
+312019,Main plaza Village Jakhauli,National,Jakhauli,Haryana,NHAI
+312020,Maujpur,National,Maujpur,Haryana,NHAI
+312021,Chhajju Nagar,National,Chhajju Nagar,Haryana,NHAI
+312022,Bhagan Toll plaza,National,Sonipat,Haryana,NHAI
+312023,Landhari Toll plaza,National,Hisar,Haryana,NHAI
+312024,MilkMajra,National,Shahjadpur,Haryana,NHAI
+312025,Kitlana,National,Bhiwani,Haryana,Unique BuildMart Pvt  Ltd.
+312026,Chhara,National,Jhajjar,Haryana,NHAI
+312027,Badarpur faridabad  Toll plaza,National,Faridabad,Haryana,Badarpur Faridabad Tollway ltd
+312028,Peont,National,Karnal,Haryana,NHAI
+312029,Saini Majra Toll Plaza,National,Saini Majra,Haryana,NHAI
+312030,Thana Village Toll Plaza,National,Kaithal,Haryana,NHAI
+312031,Khatkar Toll plaza,National,Narwana,Haryana,NHAI
+312032,Jaloli  Fee Plaza,National,Jaloli,Haryana,NHAI
+312035,Sirohi Bahali plaza,National,Narnaul,Haryana,NHAI
+312036,Kundali,State,Kundali,Haryana,Skylark world
+312037,Kharkhoda,State,Kharkhoda,Haryana,Skylark world
+312038,Asoda,State,Asoda,Haryana,Skylark world
+312039,Badli,State,Badli,Haryana,Skylark world
+312040,Farukhnagar,State,Farukhnagar,Haryana,Skylark world
+312041,PATODI,State,Patodi,Haryana,Skylark world
+312042,MANESHAR 7A,State,Manesar,Haryana,Skylark world
+312043,MANESHAR 7B,State,Manesar,Haryana,Skylark world
+312044,TAURU,State,Tauru,Haryana,Skylark world
+312045,NUH,State,Nuh,Haryana,Skylark world
+312046,PALWAL,State,Palwal,Haryana,Skylark world
+312047,Ghamroj Sohna Road Toll Plaza,National,Gurugram,Haryana,H G INFRA
+312048,Jharoti Toll Plaza,National,Sonipat,Haryana,Jai Singh and Company
+312049,Karman Toll Plaza,National,Palwal,Haryana,DA Toll Road Pvt Ltd
+312050,Karman Toll Plaza,National,Palwal,Haryana,DA Toll Road Pvt Ltd
+312051,Chandlana Toll Plaza,National,Chandlana,Haryana,NHAI
+312052,Mohna Toll Plaza,National,Mohna,Haryana,NHAI
+312053,Kheri Sharaf Ali Toll Plaza,National,Kheri Sharaf Ali,Haryana,NHAI
+312054,Bahri Toll Plaza,National,Bahri,Haryana,NHAI
+312055,Amrawali Khera Toll Plaza,National,Amrawali Khera,Haryana,NHAI
+312056,Chabri Toll Plaza,National,Chabri,Haryana,NHAI
+312057,Kilazafargarh Toll Plaza,National,Kilazafargarh,Haryana,NHAI
+312058,Bainsi Toll Plaza,National,Bainsi,Haryana,NHAI
+312059,Kharkhara Toll Plaza,National,Kharkhara,Haryana,NHAI
+312060,Kherari Toll Plaza,National,Kherari,Haryana,NHAI
+312061,Dadri Toll Plaza,National,Dadri,Haryana,NHAI
+312062,Buchawas Toll Plaza,National,Buchawas,Haryana,NHAI
+312063,Bhalkhi Toll Plaza,National,Bhalkhi,Haryana,NHAI
+312064,Jat Guwana Toll Plaza,National,Jat Guwana,Haryana,NHAI
+312065,Pabanawa Toll Plaza,National,Pabanawa,Haryana,NHAI
+312066,Bamla Toll Plaza,National,Bhiwani,Haryana,NHAI
+312067,Hilalpur FeePlaza,National,Gurugram,Haryana,NHAI
+312068,Khalilpur FeePlaza,National,Palwal,Haryana,NHAI
+312069,Kalinger FeePlaza,National,Nuh,Haryana,NHAI
+312070,Ghata SamsabadFee Plaza,National,Nuh,Haryana,NHAI
+312071,TamsabadToll Plaza,National,Panipat,Haryana,NHAI
+312072,PudapadaNildungri Toll Plaza,National,Sambalpu r,Odisha,PudapadaNildungri Toll Plaza
+312073,Kiranj TollPlaza,National,Nuh,Haryana,NHAI
+312074,Khalilpur Toll Plaza,State,Mewat,Haryana,PATH India Ltd
+313001,Bhagan Toll Plaza,National,Sonipat,Haryana,NHAI
+313002,Landhari Toll Plaza,National,Hisar,Haryana,NHAI
+313003,Morwala Toll Plaza,National,Charkhi Dadri,Haryana,NHAI
+313004,Bass Toll Plaza,National,Bass,Haryana,NHAI
+313005,Bisalwas Toll Plaza,National,Jhajjar,Haryana,NHAI
+314003,Badbar,National,Sangrur,Punjab,NHAI
+314004,Lehra Begga,National,Bhatinda,Punjab,NHAI
+314005,Kalajhar Toll Plaza,National,Channo,Punjab,NHAI
+314006,Usma Toll plaza,National,Amritsar,Punjab,NHAI
+314009,Zidda Toll Plaza,National,Bhatinda,Punjab,Zidda Toll Plaza
+314010,Dhareri Jattan Plaza,National,Zirakpur,Punjab,NHAI
+314011,Dharer Azizpur Toll Plaza,National,Patiala,Punjab,NHAI
+314012,Kot Karora Kalan Plaza,National,Talwandi,Punjab,Kot Karora Kalan Plaza
+314013,Paind Toll Plaza,National,Partran,Punjab,Paind Toll Plaza
+314014,Chak Bamniya Toll Plaza,National,Jalandhar,Punjab,NHAI
+314015,Badbar,National,Sangrur,Punjab,NHAI
+314016,Lehra Begga,National,Bhatinda,Punjab,NHAI
+314017,Kalajhar Toll plaza,National,Channo,Punjab,NHAI
+314018,Usma Toll plaza,National,Amritsar,Punjab,NHAI
+314019,Zidda Toll plaza,National,Bhatinda,Punjab,NHAI
+314020,Dhareri Jattan plaza,National,Zirakpur,Punjab,NHAI
+314021,Dharer Azizpur Toll plaza,National,Patiala,Punjab,NHAI
+314022,Kot Karora Kalan plaza,National,Talwandi,Punjab,NHAI
+314023,Paind Toll plaza,National,Partran,Punjab,NHAI
+314024,Chiddan Toll plaza,National,Amritsar,Punjab,NHAI
+314025,BHAGOMAJRA TOLL plaza,National,SAS NAGAR,Punjab,NHAI
+314026,GHULAL TOLL plaza,National,LUDHIANA,Punjab,NHAI
+314027,Behram,National,Behram,Punjab,NHAI
+314028,Bachhwan,National,Balachaur,Punjab,NHAI
+314029,Chaukiman Toll plaza,National,Ludhiana,Punjab,Ludhiana -Talwandi Toll Road Pvt. Ltd.
+314032,Jagjitpura plaza,National,Barnala,Punjab,NHAI
+314033,Chahar Toll Plaza,National,Ludhiana,Punjab,NHAI
+314034,Shekhpura Toll Plaza,National,Talwandi Sabo,Punjab,NHAI
+314035,Ludana Toll Plaza,National,Jind,Haryana,NHAI
+314036,Kala Tibba Toll Plaza,National,Abohar,Punjab,NHAI
+314037,Ferozeshah Toll Plaza,National,Ferozepur,Punjab,NHAI
+314038,Balluana Toll Plaza,National,Bhatinda,Punjab,Mahender Godara
+314039,Manan Toll Plaza,National,Amritsar,Punjab,NHAI
+314040,Karahewala Toll Plaza,National,Moga,Punjab,Rajram Godara
+314041,BhagupurToll Plaza,National,Jammu,Punjab,Harike
+314042,Darapur TollPlaza,National,Moga,Punjab,NHAI
+317001,Dolhu Nallah Fee Plaza,National,Mandi,Himachal Pradesh,NHAI
+317002,Dolhu Nallah Fee Plaza,National,Mandi,Himachal Pradesh,NHAI
+317003,Sanwara Toll Plaza,National,Sanwara,Himachal Pradesh,NHAI
+318001,Mada Fee Plaza,National,Mada Nashri,J K,NHAI
+318002,Kachkoot Toll Plaza,National,Pulwama,JandK,NHAI
+318003,Thandikhui Toll Plaza,National,Samba,JK,Rakesh Kumar Choudhary
+318004,Bann Toll plaza,National,Udhampur,J and K,Rakesh Kumar Choudhary
+318005,Mada Fee plaza,National,Mada and Nashri,J and K,NHAI
+318006,Kachkoot Toll Plaza,National,Pulwama,J AND K,NHAI
+318007,Lakhanpur,National,Jammu,J and K,NHAI
+318008,Thandikhui Toll Plaza,National,Samba,J AND K,Rakesh Kumar Choudhary
+318009,Nashri toll plaza,National,Ramban,J K,NHAI
+318010,Mada toll plaza,National,Ramban,J K,NHAI
+318011,Ujroo toll plaza,National,Quazigund,J K,NHAI
+318012,Lamber toll plaza,National,Banihal,J K,NHAI
+320001,Raibha toll plaza,National,Agra,Uttar Pradesh,NHAI
+320002,Aaini Toll Plaza,National,Bahraich,Uttar Pradesh,NHAI
+320003,Mavikala,National,Mavikala,Uttar Pradesh,Mavikala
+320005,Duhai,National,Duahi,Uttar Pradesh,Duhai
+320007,Dasana,National,Dasana,Uttar Pradesh,Dasana
+320009,Bilakbarpur,National,Bilakbarpur,Uttar Pradesh,Bilakbarpur
+320011,Fatehpur Rampur,National,Fatepur Rampur,Uttar Pradesh,Fatehpur Rampur
+320013,ALEP Main Plaza 21,State,Fatehabad,Uttar Pradesh,Eagle Infra India Ltd
+320014,ALEP Ramp Plaza 27,State,Fatehabad,Uttar Pradesh,Eagle Infra India Ltd
+320015,ALEP Ramp Plaza 54,State,Shikohabad,Uttar Pradesh,Eagle Infra India Ltd
+320016,ALEP Ramp Plaza 77,State,Etawah,Uttar Pradesh,Eagle Infra India Ltd
+320017,ALEP Ramp Plaza 92,State,Saifai,Uttar Pradesh,Eagle Infra India Ltd
+320018,ALEP Ramp Plaza 108,State,Etawah,Uttar Pradesh,Eagle Infra India Ltd
+320019,ALEP Ramp Plaza 116,State,Etawah,Uttar Pradesh,Eagle Infra India Ltd
+320020,ALEP Ramp Plaza 154,State,Saurikh,Uttar Pradesh,Eagle Infra India Ltd
+320021,ALEP Ramp Plaza 171,State,Taki Gram,Uttar Pradesh,Eagle Infra India Ltd
+320022,ALEP Ramp Plaza 193,State,Kannauj,Uttar Pradesh,Eagle Infra India Ltd
+320023,ALEP Ramp Plaza220,State,Kanpur,Uttar Pradesh,Eagle Infra India Ltd
+320024,ALEP Ramp Plaza 238,State,Unnao,Uttar Pradesh,Eagle Infra India Ltd
+320025,ALEP Main Plaza 290,State,Lucknow,Uttar Pradesh,Eagle Infra India Ltd
+320026,Aihar Toll Plaza,National,Raebareli,Uttar Pradesh,NHAI
+320027,Jindpur Toll Plaza,National,Raebareli,Uttar Pradesh,NHAI
+320028,Andiyari,National,Prayagraj,Uttar Pradesh,Raebareilly Allahabad Highway Private Limited
+320029,Bara Toll Plaza,National,Haidergarh,Uttar Pradesh,NHAI
+320030,Asroga Toll Plaza,National,Sultanpur,Uttar Pradesh,NHAI
+320031,Gulalpurva,National,Gulalpurva,Uttar Pradesh,NHAI
+320032,Chhajarsi,National,Pilkhua,Uttar Pradesh,NHAI
+320033,Chamari Toll Plaza,National,Jalaun,Uttar Pradesh,M/s Eagle Infra India Ltd
+320034,Dakhina Shekpur Toll Plaza,National,Rae Bareli,Uttar Pradesh,Arya Toll Infra Limited
+320035,Vighakhet Toll Plaza,National,Lalitpur,Uttar Pradesh,M/s Balaji Enterprises
+320036,Harro Toll Plaza near Ganne,National,Prayagraj,Uttar Pradesh,NHAI
+320037,Amreha,National,,Uttar Pradesh,NHAI
+320038,Mungari,National,Mungari,Uttar Pradesh,NHAI
+320039,Sahahbpur,National,Bahraich Rd,Uttar Pradesh,NHAI
+320040,Nainsar,National,Pharenda,Uttar Pradesh,NHAI
+320041,Bharatkhund,National,Varanasi,Uttar Pradesh,NHAI
+320042,Hadwa,National,Lucknow,Uttar Pradesh,NHAI
+320043,Akshda,National,Gorakhpur,Uttar Pradesh,NHAI
+320044,Mohammad Ibrahimpur,National,Bilari,Uttar Pradesh,NHAI
+320045,Belon,National,Narora,Uttar Pradesh,NHAI
+320046,Amdi Fee Plaza,National,Lohra,Uttar Pradesh,NHAI
+320047,Kunwarpur,National,Jaunpur,Uttar Pradesh,Vinayendranath Upadhyay
+320049,Aindhi Toll plaza,National,Amethi,Uttar Pradesh,NHAI
+320051,Sabli Toll plaza,National,Puranpur,Uttar Pradesh,NHAI
+320052,Raibha toll plaza,National,Agra,Uttar Pradesh,NHAI
+320053,Aaini Toll plaza,National,Bahraich,Uttar Pradesh,NHAI
+320054,Mavikala,National,Mavikala,Uttar Pradesh,NHAI
+320055,Duhai,National,Duahi,Uttar Pradesh,NHAI
+320056,Dasana,National,Dasana,Uttar Pradesh,NHAI
+320057,Bilakbarpur,National,Bilakbarpur,Uttar Pradesh,NHAI
+320058,Fatehpur Rampur,National,Fatepur Rampur,Uttar Pradesh,NHAI
+320059,Chhajarsi,National,Pilkhua,Uttar Pradesh,NHAI
+320060,Badauri Toll plaza,National,Fatehpur,Uttar Pradesh,M/s Bholanath Rajpati Shukla
+320062,Lalanagar Toll plaza,National,Sant Ravidas Nagar,Uttar Pradesh,M/s Bholanath Rajpati Shukla
+320063,Katoghan Toll plaza,National,Fatehpur,Uttar Pradesh,M/s Bholanath Rajpati Shukla
+320064,Jindpur Toll plaza,National,Raebareli,Uttar Pradesh,NHAI
+320065,Aihar Toll plaza,National,Raebareli,Uttar Pradesh,NHAI
+320066,Gulalpurva,National,Gulalpurva,Uttar Pradesh,NHAI
+320067,Babina Toll plaza,National,Jhansi,Uttar Pradesh,Sh. Keshav Agarwal
+320068,Vighakhet Toll plaza,National,Lalitpur,Uttar Pradesh,M/s Balaji Enterprises
+320069,Dakhina Shekpur Toll plaza,National,Rae Bareli,Uttar Pradesh,Arya Toll Infra Limited
+320070,Bara Toll plaza,National,Haidergarh,Uttar Pradesh,NHAI
+320071,Chamari Toll plaza,National,Jalaun,Uttar Pradesh,M/s Eagle Infra India Ltd
+320072,Pidhi Toll plaza,National,Jaisinghpur,Uttar Pradesh,NHAI
+320073,Nuruddinpur toll plaza,National,Amethi,Uttar Pradesh,Khalatkaar Constructions
+320074,Raksha,National,Jhansi,Uttar Pradesh,Jhansi Baran Pathways
+320075,Kunwarpur,National,Jaunpur,Uttar Pradesh,Vinayendranath Upadhyay
+320076,Asroga Toll plaza,National,Sultanpur,Uttar Pradesh,NHAI
+320077,Kurana Toll plaza,National,Hapur,Uttar Pradesh,NHAI
+320078,Sherpur Chamraha,National,Ghorkhpur,Uttar Pradesh,NHAI
+320079,Sayyad Mazra,National,Sayed Mazra,Uttar Pradesh,NHAI
+320080,Sarsawa Toll Plaza,National,Sarsawa,Uttar Pradesh,MBL GSY Road Ltd
+320081,Koyla,National,Rampur,Uttar Pradesh,NHAI
+320082,Mungari,National,Mungari,Uttar Pradesh,NHAI
+320083,Sahahbpur,National,Bahraich Rd,Uttar Pradesh,NHAI
+320084,Nainsar,National,Pharenda,Uttar Pradesh,NHAI
+320085,Mohammad Ibrahimpur,National,Bilari,Uttar Pradesh,NHAI
+320086,Sabli Toll Plaza,National,Puranpur,Uttar Pradesh,NHAI
+320087,Harro Toll Plaza near Ganne,National,Prayagraj,Uttar Pradesh,NHAI
+320089,Bharatkhund,National,Varanasi,Uttar Pradesh,NHAI
+320090,Akshda,National,Gorakhpur,Uttar Pradesh,NHAI
+320091,Belon,National,Narora,Uttar Pradesh,NHAI
+320092,Hadwa,National,Lucknow,Uttar Pradesh,NHAI
+320093,Amdi Fee Plaza,National,Lohra,Uttar Pradesh,NHAI
+320094,Aindhi Toll Plaza,National,Amethi,Uttar Pradesh,NHAI
+320095,Ramnagar Gansiyari,National,Allahabad,Uttar Pradesh,NHAI
+320096,Dularpur,National,Bahraich,Uttar Pradesh,NHAI
+320097,Umapur,National,Prayagraj,Uttar Pradesh,NHAI
+320098,Chhapar,National,Muzaffarnagar,Uttar Pradesh,Raj Shyama
+320099,Jiwana,National,Baghpat,Uttar Pradesh,NHAI
+320100,Dundahera Plaza DME KM 1990,National,Ghaziabad,Uttar Pradesh,NHAI
+320101,Dasna Plaza DME KM 2760,National,Ghaziabad,Uttar Pradesh,NHAI
+320102,Rasoolpur Sikrod DME KM 3134,National,Ghaziabad,Uttar Pradesh,NHAI
+320103,Bhojpur Plaza DME KM 4570,National,Ghaziabad,Uttar Pradesh,NHAI
+320104,DME KM 5200,National,Meerut,Uttar Pradesh,NHAI
+320105,Partapur Plaza DME KM 5900,National,Meerut,Uttar Pradesh,NHAI
+320106,Noida Plaza DME KM 1400,National,Ghaziabad,Uttar Pradesh,NHAI
+320107,Mehrauli Plaza DME KM 2350,National,Ghaziabad,Uttar Pradesh,NHAI
+320108,Puraini toll plaza,National,Puraini,Uttar Pradesh,NHAI
+320109,Aaspur Toll Plaza,National,Etah,Uttar Pradesh,NHAI
+320110,Badagaon,National,Balrampur,Uttar Pradesh,NHAI
+320111,Gulhaura,National,Siddharthanagar,Uttar Pradesh,NHAI
+320112,Kashi Plaza DME KM 5823,National,Meerut,Uttar Pradesh,NHAI
+320113,Itora Buzurg,National,Raebareilly,Uttar Pradesh,NHAI
+320114,Semra,National,Maharajganj,Uttar Pradesh,NHAI
+320116,Shrishikalan,National,Mahoba,Uttar Pradesh,NHAI
+320130,Kaithi plaza,National,Varanasi,Uttar Pradesh,NHAI
+320131,Tarwa Deva,National,Mainpuri,Uttar Pradesh,NHAI
+320132,ATRAILA SHIV GULAM Toll Plaza,National,Lalganj,Uttar Pradesh,NHAI
+320133,Lohari Toll Plaza,National,Jhansi,Uttar Pradesh,Balaji Enterprises
+320134,Belgada Toll Plaza,National,Gorakhpur,Uttar Pradesh,NHAI
+320135,Sarai Sundarpur Fee Plaza,National,Pillibhit,Uttar Pradesh,Anil Kumar Shukla
+320136,Hitouta Toll Plaza,National,Khutar,Uttar Pradesh,NHAI
+320137,Baleni Fee Plaza,National,Baleni,Uttar Pradesh,Raj Shyama
+326002,DEORIYA,National,​Rudrapur​,​Uttrakhand​,Kashipur Sitarganj Highways Pvt. Ltd.
+326003,Banushi,National,Khatima,Uttarakhand,Banushi
+326004,Banushi,National ,Dehradun,Uttarakhand,NHAI
+326005,Banushi,National,Dehradun,Uttarakhand,NHAI
+326006,Bhagwanpur,National,Bhagwanpur,Uttarakhand,NHAI
+326007,Bhadarabad Toll Plaza,National,Bhadarabad,Uttarakhand,NHAI
+326008,Lachiwala Toll Plaza,National,Dehradun,Uttarakhand,Riddhi Siddhi Associates
+326009,Jagtapur Patti Toll Plaza,National,Jaspur,Uttarakhand,NHAI
+330001,Doli toll plaza,National,Jodhpur ,Rajasthan,Doli toll plaza
+330002,Lasedi,National,Churu,Rajasthan,M/s Salasar Highways Pvt. Ltd.
+330003,Dhadhar,National,Churu,Rajasthan,M/s Salasar Highways Pvt. Ltd.
+330004,Sobhasar,National,Churu,Rajasthan,M/s Salasar Highways Pvt. Ltd.
+330005,Banthri,National,Ajmer,Rajasthan,NHAI
+330006,Tamdoli,National,Ajmer,Rajasthan,NHAI
+330007,Lambiya Kalan,National,Jaipur,Rajasthan,CGBOT
+330008,Khedi,National,Gulabpura,Rajasthan,NHAI
+330009,Kondar,National,Karauli,Rajasthan,NHAI
+330010,Chilla Chond,National,Badi,Rajasthan,NHAI
+330011,Nimbayani,National,Barmer,Rajasthan,NHAI
+330012,Kota Bypass Toll Plaza,National,Kota,Rajasthan,NHAI
+330013,Nimbasar,National,Barmer,Rajasthan,Nimbasar
+330014,Kair Fakir Ki Dhani toll plaza,National,Jaisalmer,Rajasthan,Kair Fakir Ki Dhani toll plaza
+330015,Nekawala,National,Jaipur,Rajasthan,Nekawala
+330016,Khara Toll Plaza,National,Bikaner,Rajasthan,Khara Toll Plaza
+330017,Bhadera Toll Plaza,National,Bikaner,Rajasthan,Bhadera Toll Plaza
+330018,Hindore Toll Plaza,National,Bikaner,Rajasthan,Hindore Toll Plaza
+330019,Salasar Toll Plaza,National,Bikaner,Rajasthan,Salasar Toll Plaza
+330020,Nokhra Toll Plaza,National,Bikaner,Rajasthan,Nokhra Toll Plaza
+330021,Kheerwa Toll Plaza,National,Bikaner,Rajasthan,Kheerwa Toll Plaza
+330023,Hathitala Toll Plaza ,National,Barmer,Rajasthan,Hathitala Toll Plaza 
+330024,Bor Charnan Toll Plaza,National,Barmer,Rajasthan,Bor Charnan Toll Plaza
+330025,Rajora Khurd,National,Bharatpur,Rajasthan,Rajora Khurd
+330026,Nimbi Jodha,National,Ladnun (Nagaur),Rajasthan,Nimbi Jodha
+330027,Harimma,National,Nagaur,Rajasthan,Harimma
+330028,Para Plaza,National,Para,Rajasthan,NHAI
+330029,Leelamba Plaza,National,Lilamba,Rajasthan,Leelamba Plaza
+330030,Kadisahena,National,Gulabpura,Rajasthan,NHAI
+330031,Lal ka Khera,National,Jahazpur,Rajasthan,NHAI
+330032,Pallai,National,Uniara,Rajasthan,NHAI
+330033,Limdi Toll Plaza,National,Dahod,Rajasthan,NHAI
+330034,Netra,National,Jodhpur,Rajasthan,NHAI
+330035,Tankala,National,Nagaur,Rajasthan,NHAI
+330036,Gumanpura,National,Tonk,Rajasthan,NHAI
+330037,Jasnathnagar,National,Jodhpur,Rajasthan,NHAI
+330038,Khanori,National,Jodhpur,Rajasthan,NHAI
+330039,Morani,National ,Jodhpur,Rajasthan ,NHAI
+330040,Khachrol ,National ,Bhilwara ,Rajasthan ,NHAI
+330041,Leelamba Plaza,National,Lilamba,Rajasthan,NHAI
+330042,Lathi,National,Jaisalmer,Rajasthan,GR Infra / NHAI
+330043,Ramdevara,National,Jaisalmer,Rajasthan,GR Infra / NHAI
+330044,Akhepura,National,Sikar,Rajasthan,NHAI
+330045,Mandana Toll Plaza,National,Mandana,Rajasthan,NHAI
+330046,Hanumangarh,National,Hanumangarh,Rajasthan,NHAI
+330050,Aroli,National,Bhilwara,Rajasthan,Chittorgarh Kota Toll Ways
+330053,Nimbali,National,Nimbali,Rajasthan,Jodhpur Pali Expressway Private Limited
+330054,Gajangarh,National,Gajangarh,Rajasthan,Jodhpur Pali Expressway Private Limited
+330055,Ochadi,National,Chittorgarh,Rajasthan,Chetak Tollways Ltd
+330056,Nimbaheda,National,Chittorgarh,Rajasthan,Chetak Tollways Ltd
+330057,Narsingharh,National,Chittorgarh,Rajasthan,Chetak Tollways Ltd
+330058,Sidhpura,National,Pratapgarh,Rajasthan,Chetak Tollways Ltd
+330059,Rashidpura,National,Sikar,Rajasthan,Sikar Bikaner Highway Limited
+330060,Tidiayasar,National,Churu,Rajasthan,Sikar Bikaner Highway Limited
+330061,Lakhasar,National,Bikaner,Rajasthan,Sikar Bikaner Highway Limited
+330062,Udairamsar,National,Bikaner,Rajasthan,Sikar Bikaner Highway Limited
+330063,Badi Ghati Toll plaza,National,Pushkar,Rajasthan,B.S. Group (MoRTH)
+330064,Kuchera Toll plaza,National,Ajmer,Rajasthan,B.S. Group (MoRTH)
+330065,Bagaliya Toll plaza,National,Beawar,Rajasthan,ITNL Road infrastructure Development Company Ltd. (MoRTH)
+330066,Baggar Toll plaza,National,Gomti,Rajasthan,ITNL Road infrastructure Development Company Ltd. (MoRTH)
+330069,Banthri,National,Ajmer,Rajasthan,NHAI
+330070,Tamdoli,National,Ajmer,Rajasthan,NHAI
+330071,Kondar,National,Karauli,Rajasthan,NHAI
+330072,Chilla Chond,National,Badi,Rajasthan,NHAI
+330073,Kota Bypass Toll plaza,National,Kota,Rajasthan,NHAI
+330074,Nimbasar,National,Barmer,Rajasthan,NHAI
+330075,Nimbi Jodha,National,Ladnun (Nagaur),Rajasthan,NHAI
+330076,Harimma,National,Nagaur,Rajasthan,NHAI
+330077,UNDVARIYA TOLL plaza,National,Sirohi,Rajasthan,NHAI
+330078,Doli toll plaza,National,Jodhpur,Rajasthan,M/s Eagle Infra India Ltd
+330079,Similiya,National,Kota,Rajasthan,M/S Kota Baran Toll Ways
+330080,Fatehpur,National,Baran,Rajasthan,M/S Kota Baran Toll Ways
+330081,Nekawala,National,Jaipur,Rajasthan,NHAI
+330082,Limdi Toll plaza,National,Dahod,Rajasthan,NHAI
+330084,Nimbayani,National,Barmer,Rajasthan,NHAI
+330085,Hathitala Toll plaza,National,Barmer,Rajasthan,NHAI (QualiX)
+330086,Bor Charnan Toll plaza,National,Barmer,Rajasthan,NHAI (QualiX)
+330087,Kair Fakir Ki Dhani toll plaza,National,Jaisalmer,Rajasthan,QualiX
+330088,Jasnathnagar,National,Jodhpur,Rajasthan,NHAI
+330089,Khanori,National,Jodhpur,Rajasthan,NHAI
+330090,Leelamba plaza,National,Lilamba,Rajasthan,NHAI
+330091,Para plaza,National,Para,Rajasthan,NHAI
+330092,Gumanpura,National,Tonk,Rajasthan,NHAI
+330093,Khachrol,National,Bhilwara,Rajasthan,NHAI
+330094,Morani,National,Jodhpur,Rajasthan,NHAI
+330095,Bassi,National,Chittaurgarh,Rajasthan,Chittorgarh Kota Toll Ways
+330096,Aroli,National,Bhilwara,Rajasthan,Chittorgarh Kota Toll Ways
+330097,Dhaneshwar,National,Bundi,Rajasthan,Chittorgarh Kota Toll Ways
+330098,Lathi,National,Jaisalmer,Rajasthan,GR Infra / NHAI
+330099,Ramdevara,National,Jaisalmer,Rajasthan,GR Infra / NHAI
+330100,Akhepura,National,Sikar,Rajasthan,NHAI
+330101,Mundiyar,National,Baran,Rajasthan,Jhansi Baran Pathways
+330102,Malera,National,Sirohi,Rajasthan,Udaipur Pathways
+330103,Gogunda,National,Udaipur,Rajasthan,Udaipur Pathways
+330104,Kishorepura Toll plaza,National,Kota,Rajasthan,GVK
+330105,Titoli,National,Dausa,Rajasthan,M/s PNC Rajasthan Highways Pvt. Ltd.
+330106,Rabawata,National,Dausa,Rajasthan,M/s PNC Rajasthan Highways Pvt. Ltd.
+330107,Methoon Toll plaza,National,Jhalawar,Rajasthan,NHAI
+330108,Hingonia,National,Jaipur,Rajasthan,NHAI
+330109,Sitarampura,National,Jaipur,Rajasthan,NHAI
+330110,Mandana Toll Plaza,National,Mandana,Rajasthan,NHAI
+330111,Netra,National,Jodhpur,Rajasthan,NHAI
+330112,Tankala,National,Nagaur,Rajasthan,NHAI
+330113,Hanumangarh,National,Hanumangarh,Rajasthan,NHAI
+330114,Badi Ghati Toll Plaza,National,Pushkar,Rajasthan,B.S. Group (MoRTH)
+330115,Kuchera Toll Plaza,National,Ajmer,Rajasthan,B.S. Group (MoRTH)
+330116,Bagaliya Toll Plaza,National,Beawar,Rajasthan,ITNL Road infrastructure Development Company Ltd. (MoRTH)
+330117,Baggar Toll Plaza,National,Gomti,Rajasthan,ITNL Road infrastructure Development Company Ltd. (MoRTH)
+330118,Raisinghnagar toll plaza,National,Ganganagar,Rajasthan,NHAI
+330119,Patroda Toll Plaza,National,Ganganagar,Rajasthan,NHAI
+330120,Narsana,National,Jalore,Rajasthan,NHAI
+330121,Balana,National,Pali,Rajasthan,NHAI
+330122,THIRPALI BADI Toll Plaza,National,Thirpali Badi,Rajasthan,NHAI
+330123,Kathuwas Toll Plaza,National,Alwar Behror,Rajasthan,NHAI
+330124,Gangajali Toll Plaza,National,Poogal,Rajasthan,NHAI
+330125,Seora Toll Plaza,National,Bap,Rajasthan,NHAI
+330126,Barsalpur Toll Plaza,National,Goru,Rajasthan,NHAI
+330127,Chhoti Villor Fee Plaza,National,Sanchore,Rajasthan,NHAI
+330128,Beer Mandi Toll Plaza,National,Suket,Rajasthan,Patel Darah Jhalawar Highway
+330129,Biratiya Toll Plaza,National,Jaitaran,Rajasthan,NHAI
+330130,Binaswas Toll Plaza,National,Bilara,Rajasthan,NHAI
+336001,Mandva Toll Plaza (Narmada Bridge),National,Ankleshwar,Gujuarat,NHAI
+336003,Gadoi  Toll Plaza,National,Junagadh,Gujarat,Jetpur Somnath Tollways Private Limited
+336005,KHEMANA TOLL plaza,National,Banaskantha,Gujarat,NHAI
+336006,Mandva Toll plaza (Narmada Bridge),National,Ankleshwar,Gujarat,NHAI
+336007,Vantada Toll plaza,National,Aravalli,Gujarat,NHAI
+336008,Kuchadi Toll Plaza,National,Porbander,Gujarat,NHAI
+336009,Okhamadi Toll Plaza,National,Dwarka,Gujarat,NHAI
+336010,Dari  Toll plaza,National,Gir Somnath,Gujarat,Jetpur Somnath Tollways Private Limited
+336011,Varahi Toll plaza,National,Patan,Gujarat,PATEL HIGHWAY MANAGEMENT PVT. LTD.
+336012,Makhel Toll plaza,National,Kutch,Gujarat,PATEL HIGHWAY MANAGEMENT PVT. LTD.
+336013,Bhiladi Toll plaza,National,Banaskantha,Gujarat,PATEL HIGHWAY MANAGEMENT PVT. LTD.
+336014,Bhalgam Toll plaza,National,Banaskantha,Gujarat,PATEL HIGHWAY MANAGEMENT PVT. LTD.
+336015,Gadoi  Toll plaza,National,Junagadh,Gujarat,Jetpur Somnath Tollways Private Limited
+336016,Pithai Toll plaza,National,Kheda,Gujarat,Essel Infra
+336017,Vavadi Toll plaza,National,Panchmahal,Gujarat,Essel Infra
+336018,Mokha Toll plaza,National,Kutch,Gujarat,Reliance
+336019,Kathpur Toll Plaza,National,Sabarkatha,Gujarat,NHAI
+336020,Kobadi,National,Bhavnagar,Gujarat,NHAI
+336021,Nageshri Toll Plaza,National,Nageshri,Gujarat,NHAI
+336022,Gorsar,National,Gorsar,Gujarat,Kalthia Infra Projects Private Limited
+336023,Bhordu Toll Plaza,National,Bhordu,Gujarat,NHAI
+336024,Panthawada toll plaza,National,Panthawada,Gujarat,NHAI
+336025,Bhadbhid Fee Plaza,National,Bhavnagar,Gujarat,Ganeshgarhia Construction
+336026,Dharampur Danta Toll Plaza,National,Jamkhambhaliya,Gujarat,NHAI
+340001,Nashik Sinner Tollways Limited,National,Nashik,Maharashtra,NHAI
+340002,"IRB	Tamalwadi Toll Plaza",National,Sholapur,Maharashtra,IRB
+340003,"IRB	Yedashi Toll Plaza",National,Osmanabad,Maharashtra,IRB
+340004,Pargaon TP,National,Aurangabad,Maharashtra,YABOT (IRB)
+340005,Padalshingi TP,National,Aurangabad,Maharashtra,YABOT (IRB)
+340006,Maliwadi TP,National,Aurangabad,Maharashtra,YABOT (IRB)
+340008,Kardha Toll Plaza,National,Bhandara,Maharashtra,Abhijeet Ashoka Infrastructure Pvt. Ltd.
+340009,Phulwadi Toll plaza,National,Naldurg,Maharashtra,Solapur Tollways Pvt ltd.
+340010,Talmod Toll plaza,National,Omerga,Maharashtra,Solapur Tollways Pvt ltd.
+340011,Dhoki,National,Ahmednagar,Maharashtra,NHAI
+340012,Dumbarwadi,National,Ahmednagar,Maharashtra,NHAI
+340013,Badewadi,National,Ahmednagar,Maharashtra,NHAI
+340014,Husnapur,National,Deoli,Maharashtra,NHAI
+340015,Moshi Toll plaza,National,Pune,Maharashtra,IRB
+340016,Rajgurunagar Toll plaza,National,Pune,Maharashtra,IRB
+340017,Ashiv Fee plaza,National,Ausa,Maharashtra,NHAI
+340018,Haladgao Toll plaza,National,Wardha,Maharashtra,NHAI
+340019,Baswant  Toll Plaza,National,Nashik,Maharashtra,NHAI
+340020,Daroada,National,Wardha,Maharashtra,Anuj Kumar Aggarwal
+340021,Patanswangi Toll plaza,National,Nagpur,Maharashtra,NHAI
+340023,Kelapur,National,Yavatmal,Maharashtra,NHAI
+340024,Bhamb Raja,National,Yavatmal,Maharashtra,NHAI
+340025,Kelwad,National,Nagpur,Maharashtra,NHAI
+340026,Dhoki,National,Ahmednagar,Maharashtra,NHAI
+340027,Dumbarwadi,National,Ahmednagar,Maharashtra,NHAI
+340028,Badewadi,National,Ahmednagar,Maharashtra,NHAI
+340029,Husnapur,National,Deoli,Maharashtra,NHAI
+340030,Ashiv Fee Plaza,National,Ausa,Maharashtra,NHAI
+340031,Haladgao Toll Plaza,National,Wardha,Maharashtra,NHAI
+340032,Selu Amba,National,Beed,Maharashtra,NHAI
+340033,Fekari,National,Bhusawal,Maharashtra,Fekari Infrastructure
+340034,Kharbi toll plaza,National,Bramhapuri,Maharashtra,NHAI
+340035,Hatnoor Fee plaza,National,Hatnoor,Maharashtra,NHAI
+340036,Valsang toll plaza,National,Valsang,Maharashtra,NHAI
+340037,Nashirabad Toll Plaza,National,Nashirabad,Maharashtra,NHAI
+340038,Selu Toll Plaza,National,Kalmeshwar,Maharashtra,NHAI
+340039,Karodi,National,Aurangabad,Maharashtra,NHAI
+340040,Undri Toll Plaza,National,Undri,Maharashtra,MD Yousuf
+340041,OsargaonToll Plaza,National,Sindhudurg,Maharashtra,Coral Associate
+340042,Hativale Fee Plaza,National,Hativale,Maharashtra,KCC Buildcon Pvt. Ltd
+340043,Champa Toll Plaza,National,Nagpur,Maharashtra,NHAI
+340044,Chachadgaon Toll Plaza,National,Nashik,Maharashtra,NHAI
+340045,Dhumka Tondgaon Toll Plaza,National,Washim,Maharashtra,NHAI
+340046,Ankadhal,National,Solapur,Maharashtra,NHAI
+340047,Ichgaon,National,Ichgaon,Maharashtra,NHAI
+340048,Borgaon Toll Plaza,National,Miraj,Maharashtra,NHAI
+340049,Vaidyakinhi Toll Plaza,National,Beed,Maharashtra,NHAI
+340050,Pimparwadi Toll Plaza,National,Nashik,Maharashtra,NHAI
+340051,SalavaJharoda Toll Plaza,National,Hingoli,Maharash tra,RSBIPL
+340052,Taroda-Kasba Toll Plaza,National,Amravati,Maharash tra,NHAI
+340053,Shembal TollPlaza,National,Chandrapur,Maharashtra,NHAI
+340054,Umred,National,Kalamb,Maharashtra,Dilip BuildconLimited
+340055,Wadgaon,National,Kalamb,Maharashtra,Dilip BuildconLimited
+340056,Dalsagar TollPlaza,National,Dal Sagar,Bihar,NHAI
+340057,GananguruToll Plaza,National,Mandiya,Karnataka,NHAI
+340058,Kiratpur feeplaza,National,UttarPradesh,Aligarh,NHAI
+340060,Penur TollPlaza,National,MOHOL,Maharashtra,NHAI
+340062,Karigawanfee,National,Rajauli,Bihar,NHAI
+340064,Takoli Plaza,National,Takoli(Mandi),HimachalPradesh,NHAI
+340066,KhuianSarvar Plaza,National,Fazilka,Punjab,RK Jain InfraProjects
+340067,Moura FeePlaza,National,Kiratpur,Punjab,Ceigall
+341101,Chalakwadi  toll plaza,National,Pune,Maharashtra,Khed -Sinnar Expressway Project (CPUAH)
+341401,Hiwargaon pavasa,National,Ahmadnagar,Maharashtra,Khed -Sinnar Expressway Project (HAHPU)
+345001,Panihar,National,Gwalior,Madhya Pradesh,Panihar
+345002,Mud Kheda,National,Gwalior,Madhya Pradesh,Mud Kheda
+345003,Pagara Toll Plaza,National,Guna,Madhya Pradesh,"Dilip Buildcon Limited , Metro infrasys"
+345004,Jogipur Toll Plaza,National,Biaora,Madhya Pradesh,"Dilip Buildcon Limited , Metro infrasys"
+345005,Purankhedi Toll Plaza,National,Kolaras,Madhya Pradesh,Ircon
+345006,Methwada,National,Indore,Madhya Pradesh ,IIGTL
+345007,Dattigaon,National,Jhabua,Madhya Pradesh ,IIGTL
+345008,Rathara,National,Rewa,Madhya Pradesh ,Rathara
+345009,Choratha,National,Rewa,Madhya Pradesh ,Choratha
+345010,Chapra New Delhi,National,Indore,Madhya Pradesh,Oriental
+345011,Rojwas,National,Indore,Madhya Pradesh,Oriental
+345012,Katni Bypass Road Ltd - Entry,National,Katni,Madhya Pradesh,Ashoka Concessions
+345013,Katni Bypass Road Ltd - Exit,National,Katni,Madhya Pradesh,Ashoka Concessions
+345014,Khadda,National,Rewa,Madhya Pradesh,NHAI
+345015,Sonvarsha,National,Sidhi,Madhya Pradesh,NHAI
+345016,Allonia,National,Seoni,Madhya Pradesh,NHAI
+345017,Mungwari,National ,Hoshangabad,Madhya Pradesh,NHAI
+345019,Odaki Pipkhar,National,Rewa,Madhya Pradesh,NHAI
+345020,Kherwasani,National,Katni,MadhyaPradesh,NHAI
+345021,Pathoroundi,National,Kotma,Madhya Pradesh,NHAI
+345022,Majhgawan,National,Bhopal,MadhyaPradesh,NHAI
+345023,Shadol/Dhuwar,National,Bhopal,Bhopal,NHAI
+345027,Sehatganj,National,Vidisha,Madhya Pradesh,NHAI
+345028,Saliwada,National,Jabalpur,Madhya Pradesh,NHAI
+345029,Pandutala,National,Mandla,Madhya Pradesh,NHAI
+345030,Mohtara Toll Plaza,National,Sihora,Madhya Pradesh,NHAI
+345031,Ujara,National,Ujara,Madhya Pradesh,NHAI
+345032,Milanpur Toll Plaza,National,Betul,Madhya Pradesh,Oriental
+345033,Heeran Khedi,National,Rajgarh,Madhya Pradesh,Agroh Biaora Tollways Private Limited
+345034,Jognihai,National,Rewa,Madhya Pradesh,Vindhyachal Expressway pvt. Ltd.
+345035,Masuriha,National,Rewa,Madhya Pradesh,Vindhyachal Expressway pvt. Ltd.
+345036,Baretha KM 21.120,National,Gwalior,Madhya Pradesh,MP Highways Pvt. Ltd
+345037,Phoop (Barahi) KM 105.300,National,Bhind,Madhya Pradesh,MP Highways Pvt. Ltd
+345038,Chikhalikala,National,Betul,Madhya Pradesh,NHAI
+345039,Kelwad,National,Nagpur,Maharashtra,NHAI
+345040,Madai Fee plaza,National,Chaurai,Madhya Pradesh,NHAI
+345041,Jhiriya Toll plaza,National,Rewa,Madhya Pradesh,Bansal Pathways Pvt. Ltd.
+345042,Bahoripar Fee plaza,National,Jabalpur,Madhya Pradesh,NHAI
+345043,Khambara Toll plaza,National,Betul,Madhya Pradesh,Oriental
+345044,Jungawani,National,Chhindwara,Madhya Pradesh,NHAI
+345045,Jaitpur,National,Seoni,Madhya Pradesh,NHAI
+345046,Fulara,National,Seoni,Madhya Pradesh,NHAI
+345047,Mungwari,National,Hoshangabad,Madhya Pradesh,NHAI
+345048,Khadda,National,Rewa,Madhya Pradesh,NHAI
+345049,Allonia,National,Seoni,Madhya Pradesh,NHAI
+345050,Sonvarsha,National,Sidhi,Madhya Pradesh,NHAI
+345051,Panihar,National,Gwalior,Madhya Pradesh,Essel Infra
+345052,Mud Kheda,National,Gwalior,Madhya Pradesh,Essel Infra
+345053,Milanpur Toll plaza,National,Betul,Madhya Pradesh,Oriental
+345054,Ramnagar,National,Shivpuri,Madhya Pradesh,Jhansi Baran Pathways
+345055,Mehra,National,Gwalior,Madhya Pradesh,Path
+345056,Dagrai Toll Plaza,National,Datia,Madhya Pradesh,NHAI
+345057,Shadol/Dhuwar,National,Bhopal,Bhopal,NHAI
+345058,Odaki Pipkhar,National,Rewa,Madhya Pradesh,NHAI
+345059,Pathoroundi,National,Kotma,Madhya Pradesh,NHAI
+345060,Ujara,National,Ujara,Madhya Pradesh,NHAI
+345061,Sehatganj,National,Vidisha,Madhya Pradesh,NHAI
+345062,Saliwada,National,Jabalpur,Madhya Pradesh,NHAI
+345063,Pandutala,National,Mandla,Madhya Pradesh,NHAI
+345064,Mohtara Toll Plaza,National,Sihora,Madhya Pradesh,NHAI
+345065,Madai Fee Plaza,National,Chaurai,Madhya Pradesh,NHAI
+345066,Majhgawan,National,Bhopal,MadhyaPradesh,NHAI
+345067,Chikhalikala,National,Betul,Madhya Pradesh,NHAI
+345068,Bahoripar Fee Plaza,National,Jabalpur,Madhya Pradesh,NHAI
+345069,Kherwasani,National,Katni,MadhyaPradesh,NHAI
+345070,Johariya Sheikh,National,Sagar,Madhya Pradesh,NHAI
+345071,Sonkacch,National,Sehore,Madhya Pradesh,NHAI
+345072,Kachnaria,National,Rajgarh,Madhya Pradesh,NHAI
+345073,Khawasa,National,Khawasa,Madhya Pradesh,NHAI
+345074,Patariya Goyal Toll Plaza,National,Patariya Goyal,Madhya Pradesh,MD Karimunnisa
+345075,Pachwara Toll Plaza,National,Nowgong,Madhya Pradesh,NHAI
+345076,Mandwara,National,Mandwara,Madhya Pradesh,NHAI
+345077,Mahauri,National,Mahauri,Madhya Pradesh,NHAI
+345078,Devgaon,National,Chhatarpur,Madhya Pradesh,NHAI
+345079,Vishankheda Toll Plaza,National,Raisen,Madhya Pradesh,NHAI
+345080,Harshili Toll Plaza,National,Raisen,Madhya Pradesh,NHAI
+345081,Shahpura Toll Plaza,National,Jabalpur,Madhya Pradesh,NHAI
+345082,Khiriya Fee Plaza,National,Raisen,Madhya Pradesh,M s Vanshika Construction
+345083,Newli Fee Plaza,National,Vidisha,Madhya Pradesh,Anil Kumar Shukla
+345084,DhamnodToll Plaza,State,Dhamnod,MadhyaPradesh,RMN TollwaysPvt Ltd
+345085,RatanpurPata Plaza,State,Khargaone,MadhyaPradesh,RMN TollwaysPvt Ltd
+345086,Bhopal Vidisha Toll Plaza,State,Sukhisewania,Madhya Pradesh,R.M.N. Tollways Pvt Ltd
+345087,Chanatoriya (Sagar) Toll Plaza,State,Sagar,Madhya Pradesh,RSI STONE WORLD PVT LTD
+345088,Bansa (Damoh) Toll Plaza,State,Damoh,Madhya Pradesh,RSI STONE WORLD PVT LTD
+345089,Ghatabillod Toll Plaza,State,Pithampur,Madhya Pradesh,MPRDC
+345090,Sarasdol Toll Plaza,National,Jabalpur,Madhya Pradesh,NHAI
+345091,Talen Mirzapur Toll Plaza,National,Rajgarh,Madhya Pradesh,Anil Kumar Shukla
+345092,Goragaon Toll Plaza,National,Goragaon,Madhya Pradesh,NHAI
+345093,Palhan TollPlaza,National,Rewa,MadhyaPradesh,NHAI
+345094,Bela TollPlaza,National,RampurBaghelan,MadhyaPradesh,NHAI
+345095,Para FeePlaza,National,Bhind,MadhyaPradesh,NHAI
+349001,Bhojpuri  Toll Plaza,National,Saragaon,Chhattisgarh,NHAI
+349002,Jagtara,National,Kanker,Chhattisgarh,NHAI
+349003,Mashora,National,Jagdalpur,Chhattisgarh,NHAI
+349004,Badaiyiguda,National,Jagdalpur,Chhattisgarh,NHAI
+349005,Kumhari,National,Kumhari,Chhattisgarh,NHAI
+349006,Mudhipar Toll Plaza,National,BILASPUR,Chhattisgarh,NHAI
+349007,Chotiya,National,Korba,Chhattisgarh,NHAI
+349008,Pachira,National,Surajpur,Chhattisgarh,NHAI
+349009,Mashora,National,Jagdalpur,Chhattisgarh,NHAI
+349010,Kumhari,National,Kumhari,Chhattisgarh,NHAI
+349011,Mudhipar Toll Plaza,National,BILASPUR,Chhattisgarh,NHAI
+349012,Bhojpuri  Toll Plaza,National,Saragaon,Chhattisgarh,NHAI
+349013,Jagtara,National,Kanker,Chhattisgarh,NHAI
+349014,Badaiyiguda,National,Jagdalpur,Chhattisgarh,NHAI
+349015,Paraghat Toll Plaza,National,Bilaspur,Chhattisgarh,NHAI
+350001,Chinthapally,National,Chinthapally,Telangana,Chinthapally
+350002,Konetipuram,National,Konetipuram,Telangana,NHAI
+350003,Kadthal,National,Kadthal,Telangana,Kadthal
+350004,Chinthapally,National,Chinthapally,Telangana,NHAI
+350005,Kadthal,National,Kadthal,Telangana,NHAI
+350006,Pullur,National,Mahabubnagar,Telangana,NHAI
+350007,Rolmamda,National,Adilabad,Telangana,NHAI
+350008,Gamjal,National,Adilabad,Telangana,NHAI
+350020,Pippalwada,National,Adilabad,Telangana,NHAI
+350021,Bhiknoor Toll Plaza,National,Nizamabad,Telangana,NHAI
+350022,Manoharabad,National,Medak,Telangana,NHAI
+350023,Konetipuram,National,Konetipuram,Telangana,NHAI
+350024,Muthojipet,National,Vijayawada,Telangana,NHAI
+350025,Dilawarpur fee plaza,National,Bodhan,Telangana,NHAI
+350026,Konetipuram,National,Konetipuram,Telangana,NHAI
+350027,Manoharabad,National,Medak,Telangana,NHAI
+350028,Pippalwada,National,Adilabad,Telangana,NHAI
+350029,Bhiknoor Toll plaza,National,Nizamabad,Telangana,NHAI
+350030,Gowraram Fee plaza,National,Gowraran village,Telangana,NHAI
+350031,Komalla Fee Plaza,National,Komalla (V),Telangana,NHAI
+350032,Komatipalli Fee  Plaza,National,Komatipalli,Telangana,NHAI
+350033,Muthojipet,National,Vijayawada,Telangana,NHAI
+350034,Dilawarpur fee plaza,National,Bodhan,Telangana,NHAI
+350035,Singarajupally,National,Suryapet,Telangana,NHAI
+350036,Yerkaram,National,Suryapet,Telangana,NHAI
+350039,Kollapalle Toll Plaza,National,Kollapalle,Telangana,KNR Shankarampet Projects
+350040,Singarenipalli Toll Plaza,National,Suryapet,Telangana,NHAI
+350041,MandamarriToll Plaza,National,Mandamarri,Telangana,NHAI
+350042,TaddanpallyToll Plaza,National,Taddanpally,Telangana,NHAI
+350043,Baiti KalaPlaza,National,Sultanpur,UttarPradesh,NHAI
+350044,Pudur TollPlaza,National,Madurai,TamilNadu,NHAI
+350045,AbulKhurana,NATIONAL,Malout,Punjab,Mahendra Godara
+350046,Mudiveedu Toll Plaza,National,Madanapalli,AndhraPradesh,NHAI
+350047,Baloh TollPaza,National,Baloh,HimachalPradesh,M/S GawarKiratpur Pvt Ltd
+350100,Kamkole,National,Sangareddy,Telangana,M/s Deccan Tollways Ltd
+350101,Munnanur Toll Plaza,National,Munnanur,Telangana,NHAI
+350102,Chitlapalli Toll Plaza,National,Chitlapalli,Telangana,NHAI
+350103,Gummadidala Toll Plaza,National,Gummadidala,Telangana,NHAI
+350104,Dharmaram Toll Plaza,National,Pitlam,Telangana,NHAI
+352001,Nannur,National,Kurnool,Andhra Pradesh,Rayalaseema Expressways Private ltd
+352002,Mekalavaripalli,National,Markapuram,Andhra Pradesh,Mekalavaripalli
+352003,Raviguntapalli,National,Markapuram,Andhra Pradesh,Raviguntapalli
+352004,Chinthalapalem toll plaza,National,Chinthalapalem,Andhra Pradesh,Chinthalapalem toll plaza
+352005,Rapur toll plaza,National,Rapur,Andhra Pradesh,Rapur toll plaza
+352006,Badava,National,Mylavaram,Andhra Pradesh,Badava
+352007,Bhramanapalli ,National,Bhramanapalli,Andhra Pradesh,Bhramanapalli 
+352008,Durgamvaripalli Toll Plaza,National,Rayachoti,Andhra Pradesh,NHAI
+352011,Pottipadu,National,Krishna,Andhra Pradesh,NHAI
+352013,Chapirevula,National,Nandyal,Andhra pradesh,NHAI
+352014,Davaluru,National,Kankipadu,Andhra pradesh,NHAI
+352015,Basapuram,National,Mydukur,Andhra pradesh,NHAI
+352016,Halaharvi,National,Halaharvi,Andhra pradesh,NHAI
+352017,Millampali,National,Vijayawada,Andhra Pradesh,NHAI
+352018,Gollaprolu,National,Pithapuram,Andhra Pradesh,NHAI
+352019,Chinaganjam Fee plaza,National,Nellore,Andhra Pradesh,NHAI
+352020,Mahasamudram,National,Mahasamudram,Andhra Pradesh,NHAI
+352021,Chilakpelam,National,Srikakulam,Andhra Pradesh,NHAI
+352022,Nathavalasa,National,Vizianagaram,Andhra Pradesh,NHAI
+352023,S.V Puram Toll plaza,National,Chittoor,Andhra Pradesh,Transtroy
+352024,Marur toll plaza,National,Anantapuram,Andhra Pradesh,MEP Infra Projects
+352025,Kasepalli toll plaza,National,Anantapuram,Andhra Pradesh,MEP Infra Projects
+352026,Amakthadu toll plaza,National,Kurnool,Andhra Pradesh,MEP Infra Projects
+352027,Kalaparru,National,West Godavari,Andhra Pradesh,NHAI
+352028,Agnampadi,National,Vishakhapatnam,Andhra Pradesh,NHAI
+352030,Madapam,National,Srikakulam,Andhra Pradesh,NHAI
+352031,Badava,National,Mylavaram,Andhra Pradesh,NHAI
+352032,Bhramanapalli,National,Bhramanapalli,Andhra Pradesh,NHAI
+352033,Chinthalapalem toll plaza,National,Chinthalapalem,Andhra Pradesh,NHAI
+352034,Mekalavaripalli,National,Markapuram,Andhra Pradesh,NHAI
+352035,Raviguntapalli,National,Markapuram,Andhra Pradesh,NHAI
+352036,Rapur toll plaza,National,Rapur,Andhra Pradesh,NHAI
+352037,Basapuram,National,Mydukur,Andhra pradesh,NHAI
+352038,Durgamvaripalli Toll plaza,National,Rayachoti,Andhra Pradesh,NHAI
+352039,Pottipadu,National,Krishna,Andhra Pradesh,NHAI
+352040,Davaluru,National,Kankipadu,Andhra pradesh,NHAI
+352041,Panchvati Colony,National,Vishakhapatnam,Andhra Pradesh,NHAI
+352042,Goshtani Gate,National,Vishakapatnam,Andhra Pradesh,NHAI
+352043,Yerradoddi,National,Anantpur,Andhra Pradesh,NHAI
+352044,Jellipalli,National,Anantpur,Andhra Pradesh,NHAI
+352045,Bandapalli,National,Rayachoti,Andhra Pradesh,NHAI
+352046,Millampali,National,Vijayawada,Andhra Pradesh,NHAI
+352047,Halaharvi,National,Halaharvi,Andhra pradesh,NHAI
+352048,Gollaprolu,National,Pithapuram,Andhra Pradesh,NHAI
+352049,Chinaganjam Fee Plaza,National,Nellore,Andhra Pradesh,NHAI
+352050,Chittimitti Chinthala,National,Kadapa,Andhra Pradesh,NHAI
+352051,Medapi Fee plaza,National,Prakasam,Andhra Pradesh,NHAI
+352052,Pandillapalli fee plaza,National,Prakasam,Andhra Pradesh,NHAI
+352053,Jodi Dharmapuram Toll Plaza,National,Jodi Dharmapuram,Andhra Pradesh,NHAI
+352054,Gadanki toll plaza,National,Gadanki,Andhra Pradesh,NHAI
+352055,Bathalapalli,National,Bathalapalli,Andhra Pradesh,NHAI
+352056,VeeraValli Plaza,National,Anantapalli,Andhra Pradesh,NHAI
+352057,Vaddupalli,National,Anantapur,Andhra Pradesh,NHAI
+352058,Jawahar Nagar Toll Plaza,National,Mulugu,Warangal,NHAI
+352059,Dukkavanipalem Toll Plaza,National,Visakhapatnam,Andhra Pradesh,NHAI
+352060,Marripalem Toll Plaza,National,Visakhapatnam,Andhra Pradesh,NHAI
+352061,Thenepalli Plaza,National,Thenepalli,Andhra Pradesh,NHAI
+352062,Danamaiahgaaripalli Toll Plaza,National,Danamaiahgaripalli,Andhra Pradesh,NHAI
+352063,Bandlapalli Toll Plaza,National,Bandlapalli,Andhra Pradesh,NHAI
+352064,Cholasamundram Toll Plaza,National,Hindupur,Andhra Pradesh,NHAI
+352065,Dumpalagattu Paatimeeda Palli,National,Cuddapah,Andhra Pradesh,Rayalseema Expressway Pvt Ltd
+352066,MunjuluruToll Plaza,National,Munjuluru,AndhraPradesh,NHAI
+352067,AnnampalliToll Plaza,National,Annampalli,AndhraPradesh,MCD
+352068,GorribandaToll Plaza,National,Srikakulam,AndhraPradesh,NHAI
+355076,Jamudihi TollPlaza,National,Sundargarh,Odisha,M/s KMC-RKD(JV)
+356001,Kannegala,National,Malavalli,Karnataka,NHAI
+356002,Yeddore,National,Mysore,Karnataka,NHAI
+356003,K N Huindy,National,Ramanagara,Karnataka,NHAI
+356004,Kannole,National,Gulbarga,Karnataka,NHAI
+356005,Harwal,National,Gulbarga,Karnataka,NHAI
+356006,Belekeri,National,Hattikeri,Karnataka,IRB Westcoast Tollway Private Limited
+356007,Holgegadde,National,Dhareshwar,Karnataka,IRB Westcoast Tollway Private Limited
+356008,Shirur,National,Shiroor,Karnataka,IRB Westcoast Tollway Private Limited
+356009,Gabbur,National,Hubli,Karnataka,Nandi Highway Developers Limited
+356010,Karwar,National,Hubli,Karnataka,Nandi Highway Developers Limited
+356011,Tarihal,National,Hubli,Karnataka,Nandi Highway Developers Limited
+356012,Kalghatgi,National,Dharwad,Karnataka,Nandi Highway Developers Limited
+356013,Goa,National,Dharwad,Karnataka,Nandi Highway Developers Limited
+356014,Narendra,National,Dharwad,Karnataka,Nandi Highway Developers Limited
+356016,Bankapur,National,Haveri,Karnataka,NHAI
+356017,Bagepalli Toll Plaza,National,Chikballapur,Karnataka,NHAI
+356018,Kognoli,National,Belagavi,Karnataka,NHAI
+356019,Chalageri,National,Haveri,Karnataka,NHAI
+356020,Hebbalu,National,Davanagere,Karnataka,NHAI
+356021,Hattargi,National,Belagavi,Karnataka,NHAI
+356022,Surathkal Toll plaza,National,Dakshina Kannada,Karnataka,NHAI
+356023,Brahamarakotlu,National,Dakshina Kannada,Karnataka,NHAI
+356024,Yeddore,National,Mysore,Karnataka,NHAI
+356025,K N Huindy,National,Ramanagara,Karnataka,NHAI
+356026,Kannole,National,Gulbarga,Karnataka,NHAI
+356027,Harwal,National,Gulbarga,Karnataka,NHAI
+356028,Kannegala,National,Malavalli,Karnataka,NHAI
+356029,Hirehalli toll plaza,National,Hirehalli,Karnataka,NHAI
+356030,Tidagundi,National,Vijayapura,Karnataka,NHAI
+356100,Mangalgi,National,Bidar,Karnataka,M/s Deccan Tollways Ltd
+356103,Thimmalapura,National,Bellary,Karnataka,Hampi Expressways PVT. LTD.
+356104,Kananakatte,National,Davangere,Karnataka,Hampi Expressways PVT. LTD.
+356105,Brahamarakotlu,National,Dakshina Kannada,Karnataka,NHAI
+356106,Nalavadi,National,Nalavadi,Karnataka,SRI SAI ENTERPRISES
+356107,Halligudi Fee Plaza,National,Halligudi,Karnataka,BSCPL Infrastructure Ltd
+356108,Jajirakallu Toll Plaza,National,Jajirakallu,Karnataka,Sri Sai Enterprises
+356109,Rajatadripura Toll Plaza,National,Rajatadripura,Karnataka,Riddhi SiddhiEnterprises
+356110,Sheshagirihal li Toll Plaza,National,Ramanag ar,Karnataka,DBL Bangalore Nidagatta Hwy
+356111,KaniminikeToll Plaza,National,Bengaluru,Karnataka,DBL BangaloreNidagatta Hwy
+356112,Ganebail TollPlaza,National,Belgaon,Karnataka,Coral Associate
+360002,Shenbagampettai toll plaza,National, Shenbagampettai Village,Tamil Nadu,NHAI
+360003,Palaya Gandharvakottai toll plaza,National,Palaya Gandharvakottai Village,Tamil Nadu,NHAI
+360004,Mathur Toll Plaza,National,Madharam,Tamil Nadu,NHAI
+360005,D C Palli,National,Dharmavaram,Tamil Nadu,NHAI
+360006,Buchireddypalem,National,Nellore,Tamil Nadu,NHAI
+360010,Salaipudur,National,Thoothukudi,Tamil Nadu,Raima Toll Road(MEP)
+360011,Paranur,National,Kanchipuram,Tamil Nadu,NHAI
+360012,Lembalakudi,National,Pudukkottai,Tamil Nadu,NHAI
+360013,Lechchumanapatti,National,Pudukkottai,Tamil Nadu,NHAI
+360014,Chittampatti,National,Madurai,Tamil Nadu,M/s Eagle Infra India Ltd
+360015,Boothakudi,National,Pudukkottai,Tamil Nadu,M/s Eagle Infra India Ltd
+360016,Etturvattam ,National,Virudhunagar,Tamil Nadu,Raima Toll Road(MEP)
+360017,Mathur Toll Plaza,National,Madharam,Tamil Nadu,NHAI
+360018,Tirupachethi,National,Sivagangai,Tamil Nadu,NHAI
+360019,Bogalur,National,Ramnathpuram,Tamil Nadu,NHAI
+360020,Pollachi Cochin Toll plaza,National,Coimbatore,Tamil Nadu,L and T
+360021,Pollachi Salem Toll plaza,National,Coimbatore,Tamil Nadu,L and T
+360024,Neelambur,National,Coimbatore,Tamil Nadu,L and T
+360025,Trichy Salem,National,Coimbatore,Tamil Nadu,L and T
+360026,Trichy Cochin,National,Coimbatore,Tamil Nadu,L and T
+360027,Madukkarai,National,Coimbatore,Tamil Nadu,L and T
+360028,SURAPATTU TOLL plaza,National,Tiruvallur,Tamil Nadu,NHAI
+360029,Pattarai Toll plaza,National,Tiruvallur,Tamil Nadu,NHAI
+360030,Athur,National,Kanchipuram,Tamil Nadu,NHAI
+360031,SriPerumbadur,National,Kanchipuram,Tamil Nadu,NHAI
+360032,Nallur Toll plaza,National,Tiruvallur,Tamil Nadu,L and T
+360033,Chennasamaduram,National,Vellore,Tamil Nadu,NHAI
+360034,VANAGARAM TOLL plaza,National,Tiruvallur,Tamil Nadu,NHAI
+360036,VAGAIKULAM TOLL plaza,National,Thoothukudi,Tamil Nadu,NHAI
+360037,Kappalur,National,Madurai,Tamil Nadu,Raima Toll Road(MEP)
+360038,Salaipudur,National,Thoothukudi,Tamil Nadu,Raima Toll Road(MEP)
+360039,Nanguneri,National,Tirunelveli,Tamil Nadu,Raima Toll Road(MEP)
+360040,Etturvattam,National,Virudhunagar,Tamil Nadu,Raima Toll Road(MEP)
+360041,D C Palli,National,Dharmavaram,Tamil Nadu,NHAI
+360042,Mathur Toll plaza,National,Madharam,Tamil Nadu,NHAI
+360043,Chittampatti,National,Madurai,Tamil Nadu,M/s Eagle Infra India Ltd
+360044,Buchireddypalem,National,Nellore,Tamil Nadu,NHAI
+360045,Boothakudi,National,Pudukkottai,Tamil Nadu,M/s Eagle Infra India Ltd
+360046,Bogalur,National,Ramnathpuram,Tamil Nadu,NHAI
+360047,Tirupachethi,National,Sivagangai,Tamil Nadu,NHAI
+360048,Palaya Gandharvakottai,National,Palaya Gandharvakottai Village,Tamil Nadu,NHAI
+360049,Paranur,National,Kanchipuram,Tamil Nadu,NHAI
+360050,Lembalakudi,National,Pudukkottai,Tamil Nadu,NHAI
+360051,Lechchumanapatti,National,Pudukkottai,Tamil Nadu,NHAI
+360054,Shenbagampettai toll plaza,National,Shenbagampettai Village,Tamil Nadu,NHAI
+360057,Perali toll plaza,National,Perambalur,Tamil Nadu,NHAI
+360058,Keezhkuppam Toll Plaza,National,Kallakurichi,Tamilnadu,NHAI
+360059,Ponnalagaram Toll Plaza,National,Virudhachalam,Tamilnadu,NHAI
+360060,Kodikottai Toll Plaza,National,Manjani,Tamil Nadu,MD YOUSUF ALI
+360061,Vennathur Toll Plaza,National,Manjani,Tamil Nadu,MD YOUSUF ALI
+360062,Kallakudi Toll plaza,National,Kallakudi,Tamil Nadu,KNR Srirangam Infra Pvt Ltd
+360064,Upparpatti,National,Upparpatti,Tamil Nadu,NHAI
+360065,Vallam Toll Plaza,National,Tiruvannamalai,Tamil Nadu,M/s Jai Kamatanath and Company
+360066,Enamkariyandal Toll Plaza,National,Tiruvannamalai,Tamil Nadu,M/s Jai Kamatanath and Company
+360067,Thennamadevi Toll Plaza,National,Tiruvannamalai,Tamil Nadu,M/s Jai Kamatanath and Company
+360068,Thirupathisaram Toll Plaza,National,Nagercoil,Tamil Nadu,NHAI
+360069,Sevugampatti Toll Plaza,National,Sevugampatti,TamilNadu,NHAI
+367002,Poonarimangalam,National,Ernakulam (Cochin),Kerala,NHAI
+367004,Poonarimangalam,National,Ernakulam Cochin,Kerala,NHAI
+367005,Kollam Bypass,National,Kollam,Kerala,NHAI
+367006,Thiruvallam,National,Thiruvananthapuram,Kerala,NHAI
+367007,Paniyankara Toll Plaza,National,Vadakkencherry,Kerala,Thrissur Expresway Ltd
+370001,Banskopa Plaza,National,Durgapur,West Bengal ,M/s IL
+370002,Palsit,National,Bardhaman,West Bengal,NHAI
+370003,Dankuni,National,Hooghly,West Bengal,NHAI
+370004,Surjapur,National,Uttar Dinajpur,West Bengal,NHAI
+370005,Guabari Toll plaza,National,Alipurduar,West Bengal,NHAI
+370006,KM 267.250 of NH 60,National,Murshidabad,West Bengal,NHAI
+370007,KM 801.120 of NH 31,National,Malda,West Bengal,NHAI
+370008,KM 114.430 of NH 117,National,Darjeeling,West Bengal,NHAI
+370009,KM 9.640 of NH 2,National,Hooghly,West Bengal,NHAI
+370010,KM 74.49 of AH 48,National,Jalpaiguri,West Bengal,NHAI
+370011,KM 117.050 of NH 31 C,National,Jalpaiguri,West Bengal,NHAI
+370012,KM 14.550 of NH 60 A,National,Bankura,West Bengal,NHAI
+370013,Sali Bamandanga,National,Nadia,West Bengal,NHAI
+370014,Paschim Madati,National,Darjeeling,West Bengal,NHAI
+370015,Balibhasa Toll plaza,National,Balibhasa,West Bengal,NHAI
+370016,Ghogarkuthi Fee Plaza,National,Baxirhat,West Bengal,NHAI
+370017,Rangalibazna Fee plaza,National,Jaldapara,West Bengal,NHAI
+370018,Satbhaiya Fee Plaza,National,Naxalbari,West Bengal,NHAI
+370019,Sulkhapara Fee Plaza,National,Chalsa,West Bengal,NHAI
+370020,Palsit,National,Bardhaman,West Bengal,NHAI
+370021,Dankuni,National,Hooghly,West Bengal,NHAI
+370022,Surjapur,National,Uttar Dinajpur,West Bengal,NHAI
+370023,Guabari Toll Plaza,National,Alipurduar,West Bengal,NHAI
+370024,Namkhana Fee plaza,National,Namkhana Village,West Bengal,NHAI
+370025,Mejia,National,Mejia,West Bengal,NHAI
+370026,Kalapathar,National,Kalapathar,West Bengal,NHAI
+370034,Panikauri,National,New Jalpaiguri,West Bengal,NHAI
+370035,Husludanga,National,Jalpaiguri,West Bengal,NHAI
+370036,Barai TollPlaza,National,Raiganj,WestBengal,NHAI
+375001,Hasanpur,National,Jaipur - Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED
+375002,Kantaghar,National,Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED
+375003,Banajodi,National,Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED
+375004,Srirampur toll plaza,National,Jajpur,Odisha,NHAI
+375005,PANIKOILI TOLL PLAZA,National,Jajpur,Odisha,NHAI
+375006,Pipili,National,Pipili,Odisha,NHAI
+375007,Brajarajnagar (Nuadeeh),National,Brajarajnagar,Odisha,NHAI
+375010,Brajrajnagar Toll plaza,National,Brajrajnagar,Odisha,NHAI
+375011,Gurapali,National,Ganjam,Odisha,NHAI
+375012,SERGARH TOLL plaza,National,Balasore,Odisha,NHAI
+375013,Srirampur toll plaza,National,Jajpur,Odisha,NHAI
+375014,PANIKOILI TOLL plaza,National,Jajpur,Odisha,NHAI
+375015,Pipili,National,Pipili,Odisha,NHAI
+375016,Gudipada or Gangapada Toll plaza,National,Khordha,Odisha,NHAI
+375017,Hasanpur,National,Jaipur - Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED
+375018,Kantaghar,National,Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED
+375019,Banajodi,National,Keonjhar,Odisha,SAI MAATARINI TOLLWAYS LIMITED
+375020,Khamara Fee Plaza,National,Khamar,Odisha,NHAI
+375022,Brajrajnagar Toll Plaza,National,Brajrajnagar,Odisha,NHAI
+375023,Bolangir,National,Bolangir,Odisha,NHAI
+375024,Padmanavapur Toll Plaza,National,Baripada,Odisha,NHAI
+375025,Sukhuapada Toll Plaza,National,Baripada,Odisha,NHAI
+375026,Bideibadkudar Toll Plaza,National,Deogarh,Odisha,NHAI
+375027,Rangamatia Toll Plaza,National,Daspalla,Odisha,NHAI
+375028,Khireitangiri Toll Plaza,National,Khireitangiri,Odisha,Montecarlo Singhara Binjabaha
+375029,Janasanpur Toll Plaza,National,Janasanpur,Odisha,Montecarlo Singhara Binjabaha
+375030,Kandra Toll Plaza,National,Kandra,Odisha,Montecarlo Singhara
+375031,Jharpokharia Toll Plaza,National,Jharpokharia,Odisha,NHAI
+375032,Bhagada Narayanpur Toll Plaza,National,Bhadrak,Odisha,NHAI
+375033,Darjing TollPlaza,National,Darjing,Odisha,NHAI
+378001,Raha,National,Guwahati,Assam,NHAI
+378003,Patgaon Toll plaza,National,Kokrajhar,Assam,NHAI
+378004,Mikirati Hawgaon Toll plaza,National,Daboka,Assam,NHAI
+378005,Nazirakhat Toll plaza,National,Sonapur,Assam,NHAI
+378006,Madanpur Toll plaza,National,Madanpur,Assam,NHAI
+378007,Dahalapara,National,Bongoigaon,Assam,NHAI
+378008,Raha,National,Guwahati,Assam,NHAI
+378009,Patgaon Toll Plaza,National,Kokrajhar,Assam,NHAI
+378010,Manderdisa,National,Dima Hasao,Assam,NHAI
+378011,Balachera Toll Plaza,National,Cachar,Assam,NHAI
+378012,Galia Toll Plaza,National,Galia,Assam,NHAI
+379001,Pasyih,National,Jowai,Meghalaya,Pasyih
+379002,Lomshinong,National,Khliehriat,Meghalaya,Lomshinong
+379003,Diengpasoh Toll Plaza ,National,Ri-Bhoi,Meghalaya,Nandini Talukdar
+379004,Pasyih,National,Jowai,Meghalaya,NHAI
+379005,Lomshinong,National,Khliehriat,Meghalaya,NHAI
+379006,Pahammawlein Toll plaza,National,Ri-Bhoi,Meghalaya,M/s Sahakar Global Ltd
+379007,Diengpasoh Toll plaza,National,Ri-Bhoi,Meghalaya,Nandini Talukdar
+380001,Didar Ganj,National,Patna,Bihar,BPAPA
+380002,Saidpur Patedha,National,Saidpur Patedha (Sarai),Bihar,NHAI
+380003,Kharik,National,Bhagalpur,Bihar,NHAI
+380007,Sonho Fee Plaza,National,Chhapra,Bihar,NHAI
+380008,Pokhraira Fee Plaza,National,Sitamarhi,Bihar,NHAI
+380009,Chapraitha Fee Plaza,National,Chhapra,Bihar,NHAI
+380010,Chapwa,National,Patna,Bihar,NHAI
+380011,Brindawan Fee Plaza,National,Chhapra,Bihar,NHAI
+380012,Saukala Toll plaza,National,Aurangabad,Bihar,NHAI
+380014,Saidpur Patedha,National,Saidpur Patedha (Sarai),Bihar,NHAI
+380015,Maranga,National,Purnia,Bihar,NHAI
+380016,Parsoni Khem,National,Purvi Champaran,Bihar,NHAI
+380017,Barsoni Toll Plaza,National,Purnia,Bihar,NHAI
+380018,Runni Shaidpur Toll plaza,National,Sitamarhi,Bihar,NHAI
+380019,Balgudar Toll Plaza,National,Lakhisarai,Bihar,NHAI
+380020,Kharik,National,Bhagalpur,Bihar,NHAI
+380022,Bhagalpur Toll plaza,National,Bhagalpur,Bihar,NHAI
+380023,Bishunpurwa,National,Motihari,Bihar,NHAI
+380024,Sonho Fee Plaza,National,Chhapra,Bihar,NHAI
+380025,Pokhraira Fee Plaza,National,Sitamarhi,Bihar,NHAI
+380026,Chapraitha Fee Plaza,National,Chhapra,Bihar,NHAI
+380027,Chapwa,National,Patna,Bihar,NHAI
+380028,Brindawan Fee Plaza,National,Chhapra,Bihar,NHAI
+380029,Khaikhat Toll Plaza,National,Kishangarh,Bihar,NHAI
+380030,Toda Toll Plaza,National,Nalanda,Bihar,NHAI
+380031,Shahpur Toll Plaza,National,Begusarai,Bihar,NHAI
+380032,Babhaniyawan Toll Plaza,National,Patna,Bihar,Lalji Pathak
+380033,Kulhariya fee plaza,National,Arrah,Bihar,NHAI
+381000,Managethi Toll Plaza,National,Ariyalur,Tamil Nadu,Kallagam Meensurutti Hwy Pvt Ltd
+392001,Tand Balidih,National,Bokaro,Jharkhand,NHAI
+392003,Ghanghri Toll Plaza,National,Giridih,Jharkhand,NHAI
+392004,Sosokhurd,National,Dhanbad,Jharkhand,NHAI
+392005,Navasari ,National,Dhanbad,Jharkhand,NHAI
+392006,Kothiya,National,Sahibganj,Jharkhand,NHAI
+392007,KOKPARA TOLL plaza,National,Kokpara,Jharkhand,NHAI
+392008,Rasoiya Dhamna Toll plaza,National,Hazaribagh,Jharkhand,NHAI
+392010,Tand Balidih,National,Bokaro,Jharkhand,NHAI
+392011,Murma Toll Plaza,National,Ranchi,Jharkhand,NHAI
+392012,Sosokhurd,National,Dhanbad,Jharkhand,NHAI
+392013,Ghanghri Toll plaza,National,Giridih,Jharkhand,NHAI
+392014,Pundag,National,Ranchi,Jharkhand,NHAI
+392015,Navasari,National,Dhanbad,Jharkhand,NHAI
+392016,Kothiya,National,Sahibganj,Jharkhand,NHAI
+392017,KOKPARA TOLL PLAZA,National,Kokpara,Jharkhand,NHAI
+392018,Nagwan Toll Plaza,National,Hazaribagh,Jharkhand,NHAI
+392019,Edalhatu Toll Plaza,National,Ranchi,Jharkhand,NHAI
+392020,Pata Toll Plaza,National,Chandil,Jharkhand,NHAI
+392021,Pupunki Toll Plaza,National,Bokaro,Jharkhand,R.K.Jain Infra Projects Pvt
+392022,AdityapurToll Bridge,State,Adityapur,Jharkhand,Adityapur TollBridge Comp Ltd
+392023,Putru TollPlaza,National,Jamshedpur,Jharkhand,NHAI
+517000,Alooground Manali,State,Manali,Himachal Pradesh,Tourism Development Manali
+517001,Sumaropa Location,State,Kasol,Himachal Pradesh,SADADevelopment Fee Barrier
+517002,Jagatsukh,State,Manali,Himachal Pradesh,Tourism Development Manali
+517003,Atal Tunnel Toll,State,Manali,Himachal Pradesh,SADA
+520001,ALEP Ramp Plaza 269,State,Sandila,Uttar Pradesh,Eagle Infra India Ltd
+520002,ALEP Ramp Plaza 284,State,Lucknow,Uttar Pradesh,Eagle Infra India Ltd
+520003,ALEP Ramp Plaza 204,State,Kannauj,Uttar Pradesh,Eagle Infra India Ltd
+520004,ALEP Ramp Plaza 101,State,Saifai,Uttar Pradesh,Eagle Infra India Ltd
+520005,Jewar Toll Plaza,State,Jewar,Uttar Pradesh,Jaypee Infratech Ltd
+520006,Agra Toll Plaza,State,Agra,Uttar Pradesh,Jaypee Infratech Ltd
+520007,Mathura Toll Plaza,State,Mathura,Uttar Pradesh,Jaypee Infratech Ltd
+520008,Rehan Kalan,State,Agra,Uttar Pradesh,Khalatkar Construction
+520009,Bajna Ramp Toll Plaza,State,Mathura,Uttar Pradesh,Jaypee Infratech Ltd
+520010,A (09+270 KM),State,Lucknow,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520011,B (36 + 860 KM),State,Barabanki,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520012,C (58 + 360 KM),State,Raebareilly,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520013,D (81 + 915 KM),State,Sultanpur,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520014,E (121 + 870 KM),State,Sultanpur,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520015,F (138 + 155 KM),State,Sultanpur,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520016,G (161 + 085 KM),State,Sultanpur,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520017,H (182 + 280 KM),State,Sultanpur,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520018,I (203 + 399 KM),State,Azamgarh,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520019,J (233 + 980 KM),State,Azamgarh,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520020,K (253 + 840 KM),State,Azamgarh,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520021,L (294 + 245 KM),State,Ghazipur,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520022,M (335 + 500 KM),State,Ghazipur,Uttar Pradesh,Prakash Asphalting and Toll Hwys
+520023,RTP36 Yamuna Toll Plaza,State,Jewar,Uttar Pradesh,M/s. Jaypee Infratech Ltd
+520030,ALEP Ramp Plaza 133,State,Etawah,Uttar Pradesh,Sahakar Global Ltd
+520031,PratappurToll Plaza,National,Chunar,UttarPradesh,NHAI
+520032,Jorwara Toll Plaza,National,Jorwara,Uttar Pradesh,NHAI
+520033,EPERasoolpur Plaza,National,Ghaziaba d,Uttar Pradesh,Maple
+520034,Hauj FeePlaza,National,Jaunpur,UttarPradesh,NHAI
+520035,Bamhori Kumari TollPlaza,National,Mahoba,Uttar Pradesh,NHAI
+520036,Faridpur TollPlaza,National,Bareilly,UttarPradesh,NHAI
+520037,GopalpurToll Plaza,National,Gopalpur,UttarPradesh,NHAI
+520038,BasheerapurToll Plaza,National,Kannauj,UttarPradesh,InderdeepConstruction Co
+520039,Mirzapur Kyampur Toll Plaza,National,Ghazipur,Uttar Pradesh,NHAI
+536002,HSTL TP01- Khadki,State,Khadki,Gujarat,L and T HSTL
+536003,HSTL TP02- Gaman Bariya na muvada,State,Gaman Bariya na muvada,Gujarat,L and T HSTL
+536004,HSTL TP03- Galiya Danti,State,Galiya Danti,Gujarat,L and T HSTL
+536005,HSTL TP04- Gajan,State,Gajan,Gujarat,L and T HSTL
+536006,Bamanbore,State,Surendranagar,Gujarat,PWD Rajkot
+536007,Bagodara,State,Ahmedabad,Gujarat,PWD Rajkot
+536008,AMTL-TP-01 Vasna-Iyava,State,Vasna-Iyava,Gujarat,L and T Ahmedabad-Maliya Tollway Limited.
+536009,AMTL-TP02-Malvan,State,Malvan,Gujarat,L and T Ahmedabad-Maliya Tollway Limited.
+536010,AMTL-TP03-Soldi,State,Soldi,Gujarat,L and T Ahmedabad-Maliya Tollway Limited.
+536011,AMTL-TP04-Aniyari,State,Aniyari,Gujarat,L and T Ahmedabad-Maliya Tollway Limited.
+536012,Vanpari-Paddhari,State,Rajkot,Gujarat,L and T
+536013,Soyal,State,Jamnagar,Gujarat,L and T
+536014,Jamnagar Bypass- Vadinar,State,Jamnagar,Gujarat,L and T
+536015,Bochasan Toll Plaza,State,Anand,Gujurat,RKC Infrabuilt
+536017,Vataman Toll Plaza,State,Vataman,Gujarat,MAXLINK
+536018,Vadodra Toll Plaza,State,Gujarat,Gujarat,Gujarat Road and Infra Co Ltd
+536019,Halol Toll Plaza Toll Plaza,State,Vadodra,Gujarat,Gujarat Road and Infra Co Ltd
+536020,Adalaj Toll Plaza,State,Adalaj,Gujarat,Gujarat Road and Infra Co Ltd
+536021,Mehsana Toll Plaza,State,Mehsana,Gujarat,Gujarat Road and Infra Co Ltd
+536022,Alva Toll Plaza,State,Bayad,Gujarat,Ashirwad Smart Infralink
+536023,Bakrol TollPlaza,State,Ahmedabad,Gujarat,Ahmedabad RingRoad Infra
+536024,Kansari TollPlaza,State,Deesa,Gujarat,Ranjit Toll RoadPvt Ltd
+536025,KuchhvadaToll Plaza,State,Deesa,Gujarat,Ranjit Toll RoadPvt Ltd
+536026,Sanathal TollPlaza,State,Ahmedabad,Gujarat,Ahmedabad RingRoad Infra Ltd
+536027,VaishnodeviToll Plaza,State,Ahmedabad,Gujarat,Ahmedabad RingRoad Infra Ltd
+536032,Ramol TollPlaza,State,Ahmedabad,Gujarat,Ahmedabad RingRoad Infra Ltd
+536033,Ranasan TollPlaza,State,Ahmedabad,Gujarat,Ahmedabad RingRoad Infra Ltd
+536034,Bhat TollPlaza,State,Ahmedabad,Gujarat,Ahmedabad RingRoad Infra Ltd
+536035,Tragad TollPlaza,State,Ahmedabad,Gujarat,Ahmedabad RingRoad Infra Ltd
+540001,Rajiv Gandhi Sea Link,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd
+540002,Shedung Toll Plaza,State,Shedung,Maharashtra,IRB
+540003,Khalapur Toll Plaza,State,Khalapur ,Maharashtra,IRB
+540004,Kusgaon Toll Plaza,State,Kusgaon,Maharashtra,IRB
+540005,Talegaon Toll Plaza,State,Talegaon,Maharashtra,IRB
+540006,Shilphata NH48 Toll plaza,State,Kalyan,Maharashtra,IRB
+540007,Shedung NH48 Toll plaza,State,Panvel,Maharashtra,IRB
+540008,Kusgaon NH48 Toll plaza,State,Lonavala,Maharashtra,IRB
+540009,Dehuroad NH48 Toll plaza,State,Pune,Maharashtra,IRB
+540010,Vashi,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd
+540011,Airoli,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd
+540012,Mulund(EEH),State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd
+540013,Mulund(LBS),State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd
+540014,Dahisar,State,Mumbai,Maharashtra,MEP Infrastructure Pvt Ltd
+540015,Arambha,State,Arambha,Maharashtra,ECA INFRASTRUCTURE INDIA PVT. LTD.
+540016,Mhasane Phata,State,Ahmednagar,Maharashtra,Chetak Enterprises Limited.
+540017,Katol Road,State,Nagpur,Maharashtra,GHAI Construction And JV
+540018,Hingana Road,State,Nagpur,Maharashtra,GHAI Construction And JV
+540019,Umred Road,State,Nagpur,Maharashtra,GHAI Construction And JV
+540020,Ring Road,State,Nagpur,Maharashtra,GHAI Construction And JV
+540021,Wadi Road,State,Nagpur,Maharashtra,GHAI Construction And JV
+540022,MMKIPL Toll Plaza,State,Nashik,Maharashtra,MMK Infra and Toll
+540023,Nanduri,State,Nanduri,Maharashtra,WCB Toll Road Ltd.
+540024,Visapur,State,Visapur,Maharashtra,WCB Toll Road Ltd.
+540025,Khadka plaza,State,Khadka village,Maharashtra,Keti Sangam Infrastructure
+540026,Yelgaon Toll Plaza,State,Yelgaon Village,Maharashtra,Buldana Urban Credit Co op
+540027,Datala toll plaza,State,Datala Village,Maharashtra,Buldana Urban Credit Co op
+540028,Kopra Kharghar Toll Plaza,State,Navi Mumbai,Maharashtra,Sahakar Global Ltd.
+540029,SPTPL Navi Mumbai,State,Navi Mumbai,Maharashtra,Sahakar Global Ltd.
+540032,Nandani,National,Solapur,Maharashtra,NHAI
+540033,Waifal Toll Plaza,State,Nagpur,Maharashtra,NMSCEL
+540034,Seldoh Wadgaon Bakshi Toll,State,Wardha,Maharashtra,NMSCEL
+540035,Yelkali Toll Plaza,State,Wardha,Maharashtra,NMSCEL
+540036,Virul Toll Plaza,State,Wardha,Maharashtra,NMSCEL
+540037,Dhamangaon Toll Plaza,State,Amravati,Maharashtra,NMSCEL
+540038,Gavner Talegaon Shivni Toll,State,Amravati,Maharashtra,NMSCEL
+540039,Karanja Lad Toll Plaza,State,Washim,Maharashtra,NMSCEL
+540040,Shelu Bazar/Wanoza Toll Plaza,State,Washim,Maharashtra,NMSCEL
+540041,Malegaon Toll Plaza,State,Washim,Maharashtra,NMSCEL
+540042,Mehkar Toll Plaza,State,Buldhana,Maharashtra,NMSCEL
+540043,Dusarbid Toll Plaza,State,Buldhana,Maharashtra,NMSCEL
+540044,Sidkhedraja Toll Plaza,State,Buldhana,Maharashtra,NMSCEL
+540045,Nidhhona Toll Plaza,State,Jalna,Maharashtra,NMSCEL
+540046,Shendra MIDC Toll Plaza,State,Aurangabad,Maharashtra,NMSCEL
+540047,Sawangi Toll Plaza,State,Aurangabad,Maharashtra,NMSCEL
+540048,Maliwada Toll Plaza,State,Aurangabad,Maharashtra,NMSCEL
+540049,Hadas Pimpalgaon Toll Plaza,State,Aurangabad,Maharashtra,NMSCEL
+540050,Ghaigaon Jambargaon Toll Plaza,State,Aurangabad,Maharashtra,NMSCEL
+540051,Kokmathan Toll Plaza,State,Aurangabad,Maharashtra,NMSCEL
+540052,Gonde Toll Plaza,State,Ahmednagar,Maharashtra,NMSCEL
+540053,Bharvir Toll Plaza,State,Nashik,Maharashtra,NMSCEL
+540054,Pimpri Sadruddin Toll Plaza,State,Nashik,Maharashtra,NMSCEL
+540055,Khutgar Sapgaon Toll Plaza,State,Nashik,Maharashtra,NMSCEL
+540056,Nimbvali Toll Plaza,State,Thane,Maharashtra,NMSCEL
+540057,Bhiwandi Toll Plaza,State,Thane,Maharashtra,NMSCEL
+540059,Limbe Toll Plaza,State,Aurangabad,Maharashtra,Keti Sangam Infra
+540504,MR-10 Toll Plaza,State,Indore,Madhya Pradesh,PRAKASH ASPHALTINGS and TOLL HWY
+540506,ANTARVELIYA Toll Plaza,State,Ratlam,Madhya Pradesh,NHAI
+540507,KALMORA Toll Plaza,State,Jhabua,Madhya Pradesh,NHAI
+540508,RauPithampur Toll Plaza,State,Indore,Madhya Pradesh,RPIPL
+540509,Golkheri Toll Plaza,State,Bhopal,Madhya Pradesh,Synergy Engineers Group Pvt
+540510,ChouraKheri Toll Plaza,State,Guna,Madhya Pradesh,Synergy Engineers Group Pvt
+540511,Selwa Tollplaza,State,Seoni,MadhyaPradesh,M/s Seema Singh
+540512,Lawada Tollplaza,State,Balaghat,MadhyaPradesh,M/s Seema Singh
+540513,Dangdiya Toll plaza,State,Bhopal,Madhya Pradesh,RMN TOLLWAYS PVT LTD
+540514,Ringod Toll plaza,State,Bhopal,Madhya Pradesh,RMN TOLLWAYS PVT LTD
+545001,Fanda Toll Plaza,State,Bhopal,Madhya Pradesh,
+545002,Amlaha Toll Plaza,State,Sehore,Madhya Pradesh,
+545003,Bhourasa Toll Plaza,State,Dewas,Madhya Pradesh,
+545004,Fanda Toll plaza,State,Bhopal,Madhya Pradesh,MPRDC
+545005,Amlaha Toll plaza,State,Sehore,Madhya Pradesh,MPRDC
+545006,Bhourasa Toll plaza,State,Dewas,Madhya Pradesh,MPRDC
+545007,Kherkheda,State,Ujjain,Madhya Pradesh,DBL Sitamau-Suwasra Tollways Ltd
+545008,Bilantri,State,Ujjain,Madhya Pradesh,M/s Suryawavshi Infrastructure Pvt Ltd
+545009,Sardarpur,State,Dhar,Madhya Pradesh,DBL Sardarpur Tollways
+545010,Sanawad,State,Indore,Madhya Pradesh,M/s DBL Mundi-Sanawad Tollways Ltd
+545011,Hatta,State,Sagar,Madhya Pradesh,M/s DBL Hatta-dargoan Tollways Ltd
+545012,Devkhedi,State,Gwalior,Madhya Pradesh,M/s DBL Ashoknagar-Vidisha Tollways Ltd
+545013,Singhpur,State,Rewa,Madhya Pradesh,M/s DBL Uchera-Nagod Tollways Ltd
+545014,Silwani,State,Sagar,Madhya Pradesh,DBL Silwani-Sultanganj Tollways
+545015,Talchiri,State,Sagar,Madhya Pradesh,DBL Silwani-Sultanganj
+545016,Tikitoria,State,Sagar,Madhya Pradesh,DBL Patan-Rehli Tollways
+545017,Gadaghat,State,Sagar,Madhya Pradesh,DBL Patan-Rehli Tollways
+545018,Ghoradongri,State,Narmadapuram,Madhya Pradesh,M/s DBL Betul-Sarni Tollways Ltd
+545019,Eklehra,State,Narmadapuram,Madhya Pradesh,Betul Sarni Tollways
+545020,Bela,State,Sagar,Madhya Pradesh,DBL Tikamgarh-Nowgoav
+545021,Mawai,State,Sagar,Madhya Pradesh,DBL Tikamgarh-Nowgoav
+545022,MHOW,State,Mhow,Madhya Pradesh,MHOW AGROH PATHWAYS
+545023,Manankheda,State,Manankheda,Madhya Pradesh,Ashoka Concessions
+545024,Piplyamandi,State,Piplyamandi,Madhya Pradesh,Ashoka Concessions
+545025,Nayagaon,State,Nayagaon,Madhya Pradesh,Ashoka Concessions
+545026,Chokala Toll Plaza,State,Dhar,Madhya Pradesh,Western MP Infrastructure
+545027,Chikliya Toll Plaza,State,Ratlam,Madhya Pradesh,Western MP Infrastructure
+545028,Gangiwara Toll plaza,State,Chhindwara,Madhya Pradesh,KETI Infrastructure
+545029,Susari Toll plaza,State,Dhar,Madhya Pradesh,KETI Highway
+545030,Nanpur Toll plaza,State,Alirajpur,Madhya Pradesh,KETI Highway
+545031,Kuabadla Toll plaza,State,Chhindwara,Madhya Pradesh,KETI Infrastructure
+545032,Billaua Toll Plaza,State,Gwalior,Madhya Pradesh,PATH
+545033,Badgaon Toll Plaza,State,Khandwa,Madhya Pradesh,Khandwa Agroh Pathways
+545034,Jaswadi Toll Plaza,State,Khandwa,Madhya Pradesh,Khandwa Agroh Pathways
+545035,Sarlapada plaza,State,Ratlam,Madhya Pradesh,Agroh Infra
+545036,Delanpur plaza,State,Ratlam,Madhya Pradesh,Agroh Infra
+545037,Manawarkukshi,State,Manawar,Madhya Pradesh,Agroh Infra
+545038,Rewa Ring Road,State,Rewa,Madhya Pradesh,Agroh Infra
+545039,Baroli toll plaza,State,Indore,Madhya Pradesh,Mahakaleshwar Tollways
+545040,Ninora toll plaza,State,Ujjain,Madhya Pradesh,Mahakaleshwar Tollways
+545041,Dewas By pass,State,Dewas,Madhya Pradesh,Dewas Bypass tollway
+545042,Pagara-Guna Cantt,State,Guna,Madhya Pradesh,Aryavrat Tollways
+545043,Futera Toll Plaza,State,Ashoknagar,Madhya Pradesh,Aryavrat Tollways
+545044,Malyakhedi,State,Mandsaur,Madhya Pradesh,SHUKLA GLOBAL DEVELOPERS
+545045,Pandola,State,Sheopur,Madhya Pradesh,VKS SHEOPUR BARODA
+545046,Khiriya Naka,State,Tikamgarh,Madhya Pradesh,SVT INFRASTRUCTURE
+545047,Taloon,State,Barwani,Madhya Pradesh,VKS Shukla
+545048,Julwaniya,State,Julwaniya,Madhya Pradesh,VKS Shukla
+545049,Bijanhai,State,Silwani,Madhya Pradesh,VKS Shukla
+545050,Boras,State,Gardarwada,Madhya Pradesh,VKS Shukla
+545051,Chakrawda Toll Plaza,State,Ujjain,Madhya Pradesh,Topworth Tollways
+545052,Bhuteda Toll Plaza,State,Jaora,Madhya Pradesh,Topworth Tollways
+545054,Rangaon,State,Manawar,Madhya Pradesh,Khalghat Manawar
+545055,Kanad,State,Agar,Madhya Pradesh,Sarangpur Agar Road Pvt Ltd.
+545056,GARRA TOLL PLAZA,State,BALAGHAT,Madhya Pradesh,Skylark
+545057,SELWAKALA TOLL PLAZA,State,SEONI,Madhya Pradesh,Skylark
+545068,MBL NEWARGAON,State,Balaghat,Madhya Pradesh,MBL MP Toll Road
+545069,Ichoul,State,Unchehra,Madhya Pradesh,TBCL Satna Umaria
+545070,Ubra,State,Maihar,Madhya Pradesh,TBCL Satna Umaria
+545074,Piplothar,State,Datia,Madhya Pradesh,UDIT BETUL PARATWARA
+545076,Gadariya,State,Singrauli,Madhya Pradesh,UDIT BETUL PARATWARA
+545077,Palsud plaza,State,Palsud,Madhya Pradesh,Valecha Badwani Sendhwa
+545078,Ujjain Sihasth Bypass,State,Ujjain,Madhya Pradesh,Ujjayini Highways
+545079,Datia-Bhander toll,State,Bhander,Madhya Pradesh,D P JAIN DATIA BHANDER
+545080,TCIL LAKHNADON TOLL,State,Village chhitapar,Madhya Pradesh,TCIL Lakhnadon
+545081,TCIL BINA TOLL,State,Village Ikoda,Madhya Pradesh,TCIL BINA TOLL ROAD LTD
+545082,Kotatala Toll Plaza,State,Damoh,Madhya Pradesh,Damoh Jabalpur Toll Roads
+545083,Katangi Toll Plaza,State,Jabalpur,Madhya Pradesh,Damoh Jabalpur Toll
+545084,Bhimpura Toll Plaza,State,Bhind,Madhya Pradesh,UPP Tollways
+545085,GVR BEHARI,State,Rewa,Madhya Pradesh,GVR BEHARI
+545086,Panna Amanganj Semariya Toll Plaza,State,Panna,Madhya Pradesh,Bansal Pathways Damoh Panna
+545089,Badi Baktara Toll Plaza,State,Shahganj,Madhya Pradesh,Badi Baktara Toll
+545090,Madhav Sihora Silodi Corridor Highway,State,Sihora,Madhya Pradesh,Madhav Sihora Silodi Corridor Highway
+545095,Mubarakpur Toll Plaza,State,Bhopal,Madhya Pradesh,Banco Constructions
+545096,11 miles toll plaza,State,Bhopal,Madhya Pradesh,Banco Constructions
+545097,Bagwada Fee Plaza,National,Sehore,Madhya Pradesh,NHAI
+545098,Harduwani (Damoh)Toll Plaza,State,Damoh,Madhya Pradesh,Bansal Pathways Damoh Damoh
+545099,Majhagawan KatniToll Plaza,State,Katni,Madhya Pradesh,Bansal Pathways Damoh Katni
+545100,Bajrangarh Guna Toll Plaza,State,Guna,Madhya Pradesh,Bansal Pathways Guna Sironj
+545101,Kalyanpura (Sironj) Toll Plaza,State,Sironj,Madhya Pradesh,Bansal Pathways Guna Sironj
+545102,Durjanpura Toll Plaza,State,Durjanpura,Madhya Pradesh,Valecha LM
+545103,Mandleswar Toll plaza,State,Indore,Madhya Pradesh,MHOW AGROH
+545104,Tarapoungi plaza,National,Raipur,Chattishgarh,NHAI
+545106,Mudiyapara Fee Plaza,National,Bodla,Chhattisgarh,NHAI
+545107,Limha Toll Plaza,National,Bilaspur,Chhattisgarh,BPRPL / Adani
+545108,Jhalmala TollPlaza,National,Raigarh,Chhattisgarh,NHAI
+545110,Lodam TollPlaza,National,Jashpur,Chhattisgarh,NHAI
+545111,MaharajpurToll Plaza,National,Manendragarh,Chhattisgarh,NHAI
+546023,Ratirampura,National,Morena,MadhyaPradesh,NHAI
+550001,Kokapet,State,Hyderabad,Telangana,IRB
+550002,Edulanagulapally,State,Hyderabad,Telangana,IRB
+550003,Patancheru,State,Hyderabad,Telangana,IRB
+550004,Sultanpur,State,Hyderabad,Telangana,IRB
+550005,Dundigal,State,Hyderabad,Telangana,IRB
+550006,Medchal,State,Hyderabad,Telangana,IRB
+550007,Shamirpet,State,Hyderabad,Telangana,IRB
+550008,Keesara,State,Hyderabad,Telangana,IRB
+550009,Ghatkesar,State,Hyderabad,Telangana,IRB
+550010,Taramatipet,State,Hyderabad,Telangana,IRB
+550011,Pedda Amberpet,State,Hyderabad,Telangana,IRB
+550012,Bongulur,State,Hyderabad,Telangana,IRB
+550013,Ravi Ryal,State,Hyderabad,Telangana,IRB
+550014,Tukkuguda,State,Hyderabad,Telangana,IRB
+550015,Peddagolconda,State,Hyderabad,Telangana,IRB
+550016,Shamshabad,State,Hyderabad,Telangana,IRB
+550017,Rajendra Nagar,State,Hyderabad,Telangana,IRB
+550018,TSPA,State,Hyderabad,Telangana,IRB
+550019,Nanakramguda,State,Hyderabad,Telangana,IRB
+550020,Duddeda Toll plaza,State,Medak,Telangana,HKR ROADWAYS
+550021,Renikunta Toll plaza,State,Karimnagar,Telangana,HKR ROADWAYS
+550022,Basanthnagar Toll plaza,State,Karimnagar,Telangana,HKR ROADWAYS
+550023,Madugulapally toll plaza,State,Madugulapally,Telangana,N.A.M. Expressway
+550024,Kothagudem Toll Plaza,National,Suryapet,Telangana,NHAI
+552001,Thummalacheruvu,State,Thummalacheruvu,Andhra Pradesh,NAM Expressway
+552002,Elchuru,State,Elchuru,Andhra Pradesh,NAM Expressway
+552003,SAPTGIRI TOLL PLAZA,State,TIRUPATI TOWN,ANDHRA PRADESH,Com vision India
+552004,Kovvuru,State,Vijayawada,Andhra Pradesh,Rajamundry Godavari Bridge Ltd
+552005,GanpathiFor estCheckPost,State,Prakasam,Andhra Pradesh,"Project Tiger, Markapur"
+556001,Kadathanamale Toll plaza,State,Bangalore,Karnataka,YELAHANKA AP BORDER TOLL WAYS PVT LTD
+556002,Gunjur Toll plaza,State,Bangalore,Karnataka,YELAHANKA AP BORDER TOLL WAYS PVT LTD
+556003,BYADARAHALLI,State,GORUR,Karnataka,MITRA INFRA SOLUTIONS
+556004,NILAVAGILU,State,RAMANATHAPURA,Karnataka,MITRA INFRA SOLUTIONS
+556005,COORGAL,State,BETTADAPURA,Karnataka,MITRA INFRA SOLUTIONS
+556006,GUDEMARANAHALLI,State,MAGADI,Karnataka,MITRA INFRA SOLUTIONS
+556007,TUMBADI,State,KORATAGERE,Karnataka,MITRA INFRA SOLUTIONS
+556008,BUDDAREDDYHALLI,State,PAVAGADA,Karnataka,MITRA INFRA SOLUTIONS
+556009,DODDAMAVATHURU,State,NEAR HULIYOORDURGA,Karnataka,MITRA INFRA SOLUTIONS
+556010,OBALAPURA,State,NEAR YALLAPURA,Karnataka,MITRA INFRA SOLUTIONS
+556011,Sherewada,State,Kundagol,Karnataka,MITRA INFRA SOLUTIONS
+556012,Chattar,State,Mudgal,Karnataka,MITRA INFRA SOLUTIONS
+556013,Tippanal,State,Kanakagiri,Karnataka,MITRA INFRA SOLUTIONS
+556014,Papanashi,State,Avadi Somapur,Karnataka,Kesar Investment and Securities
+556015,Hiremannapur,State,Hiremannapur,Karnataka,Kesar Investment and Securities
+556016,Hemagudda,State,Hemagudda Village,Karnataka,Sindhanur Gangavathi
+556017,Marali,State,Marali Village,Karnataka,Sindhanur Gangavathi
+556018,Kurki Toll plaza,State,Kurki Village,Karnataka,LEJONET ITS Tech
+556019,Javoor toll plaza,State,Javoor Village,Karnataka,LEJONET ITS Tech
+556020,Kamthana plaza,State,Bidar,Karnataka,JKL Stone
+556021,Ainoli plaza,State,Chincholi,Karnataka,JKL Stone
+556022,Chinchani plaza,State,Chikodi,Karnataka,Vinay Lad Enterprises
+556023,Kabbur plaza,State,Chikodi,Karnataka,Vinay Lad Enterprises
+556024,Link Road L1 Toll,State,Bengaluru,Karnataka,Nandi Economic Corridor
+556025,Hosur Road P1 Toll,State,Bengaluru,Karnataka,Nandi Economic Corridor
+556026,Tumkur Road P7 Toll,State,Bengaluru,Karnataka,Nandi Economic Corridor
+556027,Bannerghatta Road (P2) Plaza,State,Bengaluru,Karnataka,Nandi Economic Corridor
+556028,Kanakapura Road (P3) Plaza,State,Bengaluru,Karnataka,Nandi Economic Corridor
+556029,Clever Leaf P4 Plaza,State,Bengaluru,Karnataka,Nandi Economic Corridor
+556030,Mysore Road P5 Plaza,State,Bengaluru,Karnataka,Nandi Economic Corridor
+556031,Magadi Road P6 Plaza,State,Bengaluru,Karnataka,Nandi Economic Corridor
+556032,Harpanahalli Toll Plaza,State,Hadagali,Karnataka,KV Hanchinal
+556033,Mundaragi Toll Plaza,State,Mundargi,Karnataka,KV Hanchinal
+556034,Sanikoppa Toll Plaza,State,Bailhongal,Karnataka,JYOTHI PRAKSH KM
+556035,Karikatti Toll Plaza,State,Soundatti,Karnataka,JYOTHI PRAKSH KM
+556041,Beechagondanahalli,State,Beechagondanahalli,Karnataka,KRDCL
+556042,Aminbhavi Toll Plaza,State,Dharwad,Karnataka,NG INFOTECH
+556043,Narsingi,State,Hyderabad,Telangana,HGCL
+556045,YashwantpurToll Plaza,State,Sandur,Karnataka,Madarasab Singanamalli
+556046,Baneti TollPlaza,State,Sandur,Karnataka,MadarasabSinganamalli
+556052,Chitrakoot/Bharatkup Km 04,State,Karwi,Uttar Pradesh,UPEIDA
+556053,Bisanda Km24,State,Banda,UttarPradesh,UPEIDA
+556054,Baberu Km43,State,Banda,UttarPradesh,UPEIDA
+556055,Banda Km 50,State,Banda,UttarPradesh,UPEIDA
+556056,Mavai Km 54,State,Banda,UttarPradesh,UPEIDA
+556057,Khanna Km86,State,Mahoba,UttarPradesh,UPEIDA
+556058,Hamirpur Km125,State,Jakhedi,UttarPradesh,UPEIDA
+556059,Dakore Km164,State,Orai,UttarPradesh,UPEIDA
+556060,Orai Km 174,State,Orai,UttarPradesh,UPEIDA
+556061,Chiriya Km201,State,Jalaun,UttarPradesh,UPEIDA
+556062,KarampurKm 243,State,Auraiya,UttarPradesh,UPEIDA
+556063,Kakrahi Km280,State,Etawah,UttarPradesh,UPEIDA
+556064,Takha Km287,State,Etawah,UttarPradesh,UPEIDA
+560001,Perungudi,State,Chennai,Tamil Nadu,TNRDC
+560002,Central Server plaza,State,Chennai,Tamil Nadu,TNRDC
+560003,Thoraipakkam,State,Chennai,Tamil Nadu,TNRDC
+560004,Medavakkam,State,Chennai,Tamil Nadu,TNRDC
+560005,ECRlink Road,State,Chennai,Tamil Nadu,TNRDC
+560006,Egatur,State,Chennai,Tamil Nadu,TNRDC
+560007,Uthandi,State,Chennai,Tamil Nadu,TNRDC (ECR)
+560008,Central Server plaza,State,Chennai,Tamil Nadu,TNRDC (ECR)
+560009,Anumandhai,State,Chennai,Tamil Nadu,TNRDC (ECR)
+560010,Mahabalipuram plaza,State,Chennai,Tamil Nadu,TNRDC (ECR)
+560011,Vandiyur,State,Madurai,Tamil Nadu,SRI BALAJI TOLLWAYS
+560012,Chinthamani,State,Madurai,Tamil Nadu,SRI BALAJI TOLLWAYS
+560013,Valayangulam,State,Madurai,Tamil Nadu,SRI BALAJI TOLLWAYS
+560014,Kolappancheri,State,Chennai,Tamil Nadu,TNRDC
+560015,Varadharajapuram,State,Chennai,Tamil Nadu,TNRDC
+560016,Palavedu,State,Chennai,Tamil Nadu,TNRDC
+560017,Chinnamullaivoyal,State,Chennai,Tamil Nadu,TNRDC
+560022,Vidhyasagar Setu Toll Plaza,State,Howrah,West Bengal,PRAKASH ASPHALTINGS  TOLL HWY
+570010,Kasari Toll Plaza,State,Nagaur,Rajasthan,RIDCOR Ltd
+570011,Chapri Toll Plaza,State,Nagaur,Rajasthan,RIDCOR Ltd
+570012,Padiyara Toll Plaza,State,Churu,Rajasthan,RIDCOR Ltd
+570013,Malasar Toll Plaza,State,Churu,Rajasthan,RIDCOR Ltd
+570014,Pallu Toll Plaza,State,Hanumangarh,Rajasthan,RIDCOR Ltd
+570015,Kolha Toll Plaza,State,Hanumangarh,Rajasthan,RIDCOR Ltd
+570016,Kolu Toll Plaza,State,Jodhpur,Rajasthan,RIDCOR Ltd
+570017,Kelankot Toll Plaza,State,Barmer,Rajasthan,RIDCOR Ltd
+570018,Bhooka Toll Plaza,State,Barmer,Rajasthan,RIDCOR Ltd
+570019,Naya Nagar Toll Plaza,State,Barmer,Rajasthan,RIDCOR Ltd
+570020,Bagdi KM 14 Toll Plaza,State,Dausa,Rajasthan,RIDCOR Ltd
+570021,Bhadoti Toll Plaza,State,Sawai Madhopur,Rajasthan,RIDCOR Ltd
+570022,Indragarh Toll Plaza,State,Bundi,Rajasthan,RIDCOR Ltd
+570023,Patan Gudla Plaza,State,Bundi,Rajasthan,RIDCOR Ltd
+570024,Khanpur Toll,State,Jhalawar,Rajasthan,RIDCOR Ltd
+570025,Sikandra Toll,State,Dausa,Rajasthan,RIDCOR Ltd
+570026,Mahuwa Toll,State,Alwar,Rajasthan,RIDCOR Ltd
+570027,Jetpur Toll Plaza,State,Bikaner,Rajasthan,RIDCOR Ltd
+570028,Sangaria Toll Plaza,State,Bikaner,Rajasthan,RIDCOR Ltd
+570029,Papri Toll,State,Alwar,Rajasthan,RIDCOR Ltd
+570030,Tijara Toll,State,Alwar,Rajasthan,RIDCOR Ltd
+570031,Bhiwadi Toll,State,Alwar,Rajasthan,RIDCOR Ltd
+570032,KK Toll Plaza,State,Alwar,Rajasthan,RIDCOR Ltd
+570033,Ralayati KM 9 Toll Plaza,State,Jhalawar,Rajasthan,RIDCOR Ltd
+570034,Rajpura KM 24 Toll Plaza,State,Jhalawar,Rajasthan,RIDCOR Ltd
+570035,Ujjain-Jhalawar(Binda),State,Jhalawar,Rajasthan,RIDCOR Ltd
+570036,Toparia Toll Plaza,State,Hanumagarh,Rajasthan,RIDCOR Infra Project Ltd
+570037,Gogamedi Toll Plaza,State,Hanumagarh,Rajasthan,RIDCOR Infra Project Ltd
+570038,Amarpura Toll Plaza,State,Hanumagarh,Rajasthan,RIDCOR Infra Project Ltd
+570039,MB(Gundwa),State,Bharatpur,Rajasthan,RIDCOR Infra Project Ltd
+570040,GB(Newadiya),State,Sawai Madhopur,Rajasthan,RIDCOR Infra Project Ltd
+570041,Bahala Toll Plaza,National,Alwar,Rajasthan,NHAI
+570042,Sheetal FeePlaza,National,Alwar,Rajasthan,NHAI
+570043,Pinan FeePlaza,National,Alwar,Rajasthan,NHAI
+570044,BhandarajFee Plaza,National,Dausa,Rajasthan,NHAI
+570045,DungarpurFee Plaza,National,Dausa,Rajasthan,NHAI
+570046,BadkaparaFee Plaza,National,Dausa,Rajasthan,NHAI
+570047,Karel Toll Plaza,National,Udaipur,Rajasthan,NHAI
+570048,Ragunathpura Toll Plaza,State,Sikar,Rajasthan,RSRDC
+570049,Dadiya TollPlaza,State,Sikar,Rajasthan,RSRDC
+570050,ShahpuraToll Plaza,State,Jaipur,Rajasthan,RSRDC
+570051,Malpura TollPlaza,State,Jaipur,Rajasthan,RSRDC
+570052,Renwal TollPlaza,State,Jaipur,Rajasthan,RSRDC
+570053,Dighal TollPlaza,State,Sikar,Rajasthan,RSRDC
+570054,Kekri TollPlaza,State,Jaipur,Rajasthan,RSRDC
+570055,DaulatpuraFee Plaza,National,Sawaimadhopur,Rajasthan,NHAI
+570056,Mount AbuGreen Tax Plaza,state,Mount Abu,Rajasthan,Municipal Board Mount Abu
+711001,Select City Walk Mall,Covered,New Delhi,,PARIVOM TECHNOLOGIES
+711002,IGI-Terminal 3,Covered,Delhi,,GMR - DAPS
+711003,IGI-Terminal 2,Covered,New Delhi,,GMR - DAPS
+711006,Kashemere Gate Metro,Open,Delhi,,DMRC
+711008,ParkPlus Office,Covered,Delhi,,Parkplus
+711009,Pacific D21 Mall,Open,Delhi,,ParkPlus
+711010,Pacific Mall NSP,Open,Delhi,,ParkPlus
+711011,Worldmark 1,Open,Delhi,,Parkplus
+711012,Worldmark 2,Covered,Delhi,,Bharti Land Limited
+711013,Worldmark 3,Covered,Delhi,,Bharti Land Limited
+712001,Spaze i-Tech Park Toll Plaza,Covered,Gurugram,,Spaze i-Tech
+712002,DT City Centre,Covered,Gurgaon,,DLF
+712008,SDMC Dwarka Sector 14,Open,Gurugram,,NDMC
+712009,Palwal district court,Open,Palwal,,Jai Bhole Enterprise
+712012,Global Foyer Mall,Open,Gurugram,,ParkSmart Technologies Pvt Ltd
+712013,Pacific Mall Dehradun,Covered,Dehradun,,Parkplus
+712014,DLF Cyber Hub,Covered,Gurgaon,,Parkplus
+712015,EDM Mall Anand Vihar,Covered,Ghaziabad,,Parkplus
+712016,Sardar Patel Intl Airport,Covered,Ahmedabad,,Adani Airports
+712017,Oberoi Mall,Covered,Mumbai,,Parkplus
+712021,Adichunchanagiri Parking,Covered,Mandya,,Building Control Solutions
+712023,Manipal Hospital,Open,Jaipur,,Snehlaxmi Innovative NWTech
+712024,AIPL Joy Street,Covered,Gurgaon,,AIPL JOY STREET
+712037,SDMC Parking,Open,New Delhi,,Parkplus
+712041,Infiniti One Andheri,Covered,Mumbai,,Infiniti Malls
+712042,Infiniti Malad,Covered,Mumbai,,Infiniti Malls
+712044,EVP Cinemas,Open,Chennai,,ParkPlus
+712045,Lodha Xperia Mall,Covered,Dombivli,,ParkPlus
+712046,SDMC Adchini,Open,New Delhi,,RR Parkon
+712047,Forum Shantiniketan Mall,Covered,Bangalore,,Forum Malls
+712048,Kumar Pacific Mall,Covered,Pune,,ParkPlus
+712052,"Inter State Bus Terminal, ASTC",Open,Open,,Assam
+712066,Jaipur Centre Mall,Covered,Jaipur,,Snehlaxmi Innovative Solution
+712067,Thykkodam KMRL,Covered,Covered,,Kerala
+712087,Surajkund Main Parking,Open,Faridabad,,ParkSmart Technologies Pvt Ltd
+712089,Urvashi Cinemas,Covered,Bangalore,,ParkPlus
+712090,"ISBT, Jabalpur",Open,Jabalpur,,Building Control Solution
+712091,Dhansa Bus Stand Parking,Covered,Covered,,Delhi
+712092,Sector 44 Gurgaon,Covered,Covered,,Haryana
+712093,Gaur City Mall,Covered,Covered,,Uttar Pradesh
+712094,Nexus Kormangala,Covered,Covered,,Karnataka
+712095,Nexus Whitefield,Covered,Covered,,Karnataka
+712096,Angul Bus Terminal,Covered,Bhuvaneshwar,,Angul Bus Terminal Co Pvt Ltd
+712097,Statue of Equality,Covered,Hyderabad,,Jiva Trust Ltd
+712098,32nd Milestone,Covered,Covered,,Haryana
+712099,R City Mall Mumbai,Covered,Covered,,Maharashtra
+712100,MTDC Parking,Open,Open,,Maharashtra
+712103,Vijayawada Airport,Covered,Covered,,Andhra Pradesh
+712104,Hodel Parking,Open,Open,,Haryana
+712106,NUH Sector 8 Open Parking,Open,Open,,Haryana
+712108,93 Avenue,Covered,Covered,,Maharashtra
+712109,Nexus Seawoods Mall,Covered,Covered,,Maharashtra
+712110,Somnath Temple Parking Old,Open,Veraval,,Shree Somnath Trust
+712111,Somnath Temple Parking New,Open,Veraval,,Shree Somnath Trust
+712112,Tirdent Group VPO Dhoula,Open,Open,,Punjab
+712117,Ardee Mall,Covered,Covered,,Haryana
+712119,Sahadeo Mahato Marg,Open,Open,,Bihar
+712120,Hartali More,Open,Open,,Bihar
+712121,Vidut Bhawan,Open,Open,,Bihar
+712122,Treasure Island Mall,Covered,Covered,,Madhya Pradesh
+712123,Nexus Indore Central,Covered,Covered,,Madhya Pradesh
+712124,Nexus Amritsar,Covered,Covered,,Punjab
+712125,Nexus Ahmedabad One,Covered,Covered,,Gujarat
+712126,Unison Centrio Mall,Covered,Covered,,Uttarakhand
+712129,Global Foyer Palam Vihar,Covered,Covered,,Haryana
+712130,Galleria Bangalore,Covered,Covered,,Karnataka
+712133,Subhash Chowk Parking- Indore,Covered,Covered,,Madhya Pradesh
+712140,Sangam Theatres,Covered,Covered,,Delhi
+712144,STATUE OF BELIEF,Open,Open,,Rajasthan
+712145,World Trade Tower,Covered,Covered,,Uttar Pradesh
+712146,SDMC Lajpat Nagar,Covered,Covered,,Delhi
+712148,Inorbit Vadodara,Covered,Covered,,Gujrat
+714002,Elante Mall,Covered,Chandigarh,,Secure Parking
+720002,Pacific Mall PARKING PLAZA,Covered,Ghaziabad,,Park Plus
+730002,MGF Metropolitan Mall,Covered,Jaipur,,Snehlaxmi Innovative NWTech
+730004,Pink Square Mall,Covered,Jaipur,,Snehlaxmi Innovative NWTech
+740003,Aurangabad Airport,Covered,Aurangabad,,ParkPlus
+740005,Phoenix Marketcity,Covered,Mumbai,,Parivom Technologies
+740007,Inorbit Mall Vashi,Covered,Mumbai,,ParkPlus
+740008,One BKC,Covered,Mumbai,,Park Plus
+740009,Inorbit,Covered,Mumbai,,Parivom technologies
+750002,RGIA-Car Park,Open,Hyderabad,,Grandi Mallikarjuna Rao (GRM)
+752002,CMR Central Mall,Covered,Visakhapatnam,,Chandana Brothers Multicomplex
+756001,Brookefield Mall,Covered,Bangalore,,Brookefield
+756003,Sakra World Hospital,Covered,Bengaluru,,H K S Services
+756006,MSR Regaliaa Elements Mall,Covered,Covered,,Karnataka
+756007,Phoenix Market City,Covered,Bengaluru,,Parivom Technologies
+756008,Park Square Mall,Covered,Bengaluru,,International Tech. Park Ltd.
+760001,Brookefields,Covered,Coimbatore,,Parivom technologies
+760002,VR Mall,Covered,Chennai,,Parivom technologies
+767001,Park Center Technopark,Open,Trivandrum,,ELVICTO
+767002,Tvm Central Main Parking,Open,Trivandrum,,Anantham Online Pvt Ltd
+767003,ERKLM Jn Premium Parking,Open,Ernakulam,,Anantham Online
+767004,KIMS hospital,Covered,Trivandrum,,KIMS hospital
+770001,New Town Business Club,Covered,Kolkata,,Coresonant
