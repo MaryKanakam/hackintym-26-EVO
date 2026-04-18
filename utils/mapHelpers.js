@@ -70,10 +70,24 @@ export const EVENT_MARKER = L.divIcon({
 });
 
 export const TOLL_MARKER = L.divIcon({
-  className: "custom-marker",
-  html: `<div style="background-color: #3b82f6; width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px; box-shadow: 0 0 10px rgba(59, 130, 246, 0.5); border: 2px solid white;">🛣️</div>`,
-  iconSize: [28, 28],
-  iconAnchor: [14, 14],
+  className: "custom-marker toll-marker",
+  html: `<div style="
+    width: 24px;
+    height: 24px;
+    background: #000000;
+    border: 2px solid #dc2626;
+    border-radius: 6px;
+    box-shadow: 0 0 8px rgba(220, 38, 38, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 800;
+    color: #ffffff;
+    z-index: 1000;
+  ">₹</div>`,
+  iconSize: [24, 24],
+  iconAnchor: [12, 12],
 });
 
 // Create a category-specific marker icon
@@ -156,18 +170,20 @@ export function createEventIcon(crowdLevel) {
   });
 }
 
-// OpenStreetMap tile options
+// Mapbox tile options with configured API token
+const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN;
+
 export const MAP_TILES = {
   dark: {
-    url: "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>',
+    url: `https://api.mapbox.com/styles/v1/mapbox/dark-v11/tiles/256/{z}/{x}/{y}@2x?access_token=${MAPBOX_TOKEN}`,
+    attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   },
   light: {
-    url: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    url: `https://api.mapbox.com/styles/v1/mapbox/light-v11/tiles/256/{z}/{x}/{y}@2x?access_token=${MAPBOX_TOKEN}`,
+    attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a>',
   },
   voyager: {
-    url: "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>',
+    url: `https://api.mapbox.com/styles/v1/mapbox/streets-v12/tiles/256/{z}/{x}/{y}@2x?access_token=${MAPBOX_TOKEN}`,
+    attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a>',
   },
 };

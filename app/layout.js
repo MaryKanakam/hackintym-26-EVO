@@ -1,4 +1,5 @@
 import "./globals.css";
+import Chatbot from "@/components/common/Chatbot";
 
 export const metadata = {
   title: "City One — Smart City Dashboard",
@@ -19,6 +20,7 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         {children}
+        <Chatbot />
       </body>
     </html>
   );

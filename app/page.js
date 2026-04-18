@@ -27,7 +27,7 @@ const MapView = dynamic(() => import("@/components/dashboard/MapView"), {
 
 export default function Dashboard() {
   const [activeLayers, setActiveLayers] = useState(
-    new Set(["traffic", "complaints", "ev", "events", "risk", "tolls"])
+    new Set(["tolls"])
   );
   const [filters, setFilters] = useState({
     category: null,

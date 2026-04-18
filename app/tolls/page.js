@@ -32,7 +32,7 @@ import {
   Cell,
 } from "recharts";
 
-const PIE_COLORS = ["#6366f1", "#8b5cf6", "#ec4899", "#f97316", "#22c55e", "#3b82f6", "#f59e0b", "#14b8a6"];
+const PIE_COLORS = ["#991b1b", "#dc2626", "#ef4444", "#f87171", "#334155", "#475569", "#1f2937", "#111827"];
 
 export default function TollsPage() {
   const [tolls, setTolls] = useState([]);
@@ -218,30 +218,30 @@ export default function TollsPage() {
           {/* Summary Stats */}
           <div className="toll-stats-row">
             <div className="toll-stat-card">
-              <Landmark size={20} className="toll-stat-icon" style={{ color: "#6366f1" }} />
+              <Landmark size={20} className="toll-stat-icon" style={{ color: "#dc2626" }} />
               <div>
-                <span className="toll-stat-value" style={{ color: "#6366f1" }}>{stats.totalPlazas}</span>
+                <span className="toll-stat-value" style={{ color: "#dc2626" }}>{stats.totalPlazas}</span>
                 <span className="toll-stat-label">Total Plazas</span>
               </div>
             </div>
             <div className="toll-stat-card">
-              <Map size={20} className="toll-stat-icon" style={{ color: "#8b5cf6" }} />
+              <Map size={20} className="toll-stat-icon" style={{ color: "#f87171" }} />
               <div>
-                <span className="toll-stat-value" style={{ color: "#8b5cf6" }}>{stats.totalStates}</span>
+                <span className="toll-stat-value" style={{ color: "#f87171" }}>{stats.totalStates}</span>
                 <span className="toll-stat-label">States</span>
               </div>
             </div>
             <div className="toll-stat-card">
-              <MapPin size={20} className="toll-stat-icon" style={{ color: "#22c55e" }} />
+              <MapPin size={20} className="toll-stat-icon" style={{ color: "#ef4444" }} />
               <div>
-                <span className="toll-stat-value" style={{ color: "#22c55e" }}>{stats.totalCities}</span>
+                <span className="toll-stat-value" style={{ color: "#ef4444" }}>{stats.totalCities}</span>
                 <span className="toll-stat-label">Cities</span>
               </div>
             </div>
             <div className="toll-stat-card">
-              <Building2 size={20} className="toll-stat-icon" style={{ color: "#f59e0b" }} />
+              <Building2 size={20} className="toll-stat-icon" style={{ color: "#9ca3af" }} />
               <div>
-                <span className="toll-stat-value" style={{ color: "#f59e0b" }}>{stats.totalConcessionaires}</span>
+                <span className="toll-stat-value" style={{ color: "#9ca3af" }}>{stats.totalConcessionaires}</span>
                 <span className="toll-stat-label">Concessionaires</span>
               </div>
             </div>

@@ -118,17 +118,21 @@ export default function MapView({
 
         {/* Toll Plazas */}
         {activeLayers.has("tolls") &&
-          tolls?.map((toll) => (
-            <Marker
-              key={`toll-${toll.plaza_id}`}
-              position={[toll.latitude, toll.longitude]}
-              icon={TOLL_MARKER}
-            >
-              <Popup>
-                <TollPopup data={toll} />
-              </Popup>
-            </Marker>
-          ))}
+          tolls?.map((toll) => {
+            if (toll.latitude === null || toll.longitude === null) return null;
+            return (
+              <Marker
+                key={`toll-${toll.plaza_id}`}
+                position={[toll.latitude, toll.longitude]}
+                icon={TOLL_MARKER}
+                zIndexOffset={1000}
+              >
+                <Popup>
+                  <TollPopup data={toll} />
+                </Popup>
+              </Marker>
+            );
+          })}
 
         {/* Risk Zone Layer */}
         {activeLayers.has("risk") &&

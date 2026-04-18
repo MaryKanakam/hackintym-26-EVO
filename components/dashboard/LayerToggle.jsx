@@ -14,12 +14,12 @@ import {
 } from "lucide-react";
 
 const layers = [
-  { id: "traffic", label: "Traffic Hotspots", icon: MapPin, color: "#f97316" },
+  { id: "traffic", label: "Traffic Hotspots", icon: MapPin, color: "#dc2626" },
   { id: "complaints", label: "Civic Complaints", icon: AlertTriangle, color: "#ef4444" },
-  { id: "ev", label: "EV Stations", icon: Zap, color: "#22c55e" },
-  { id: "events", label: "City Events", icon: Calendar, color: "#8b5cf6" },
-  { id: "tolls", label: "Toll Plazas", icon: Landmark, color: "#3b82f6" },
-  { id: "risk", label: "Risk Zones", icon: Shield, color: "#f59e0b" },
+  { id: "ev", label: "EV Stations", icon: Zap, color: "#4ade80" }, // Light green for EV status
+  { id: "events", label: "City Events", icon: Calendar, color: "#f87171" },
+  { id: "tolls", label: "Toll Plazas", icon: Landmark, color: "#ffffff" },
+  { id: "risk", label: "Risk Zones", icon: Shield, color: "#991b1b" },
 ];
 
 export default function LayerToggle({ activeLayers, onToggleLayer, layerCounts = {} }) {

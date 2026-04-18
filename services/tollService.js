@@ -34,6 +34,8 @@ const STATE_COORDS = {
   "Puducherry": [11.9416, 79.8083],
 };
 
+// no mock state coords needed
+
 /**
  * Parse CSV text into an array of objects.
  * Handles quoted fields and trims whitespace.
@@ -42,8 +44,28 @@ function parseCSV(csvText) {
   const lines = csvText.split(/\r?\n/).filter((line) => line.trim());
   if (lines.length === 0) return [];
 
+  // Helper function to safely split CSV handling quotes
+  const splitCSVLine = (line) => {
+    const result = [];
+    let current = "";
+    let inQuotes = false;
+    for (let i = 0; i < line.length; i++) {
+      const c = line[i];
+      if (c === '"') {
+        inQuotes = !inQuotes;
+      } else if (c === "," && !inQuotes) {
+        result.push(current);
+        current = "";
+      } else {
+        current += c;
+      }
+    }
+    result.push(current);
+    return result.map((v) => v.trim().replace(/^"|"$/g, "").replace(/""/g, '"'));
+  };
+
   // Parse header
-  const headers = lines[0].split(",").map((h) => h.trim().replace(/^"|"$/g, ""));
+  const headers = splitCSVLine(lines[0]);
 
   // Map CSV headers to our internal keys
   const headerMap = {
@@ -64,31 +86,62 @@ function parseCSV(csvText) {
 
   // Parse rows
   const data = [];
+  const uniqueIds = new Set();
+
   for (let i = 1; i < lines.length; i++) {
-    const values = lines[i].split(",").map((v) => v.trim().replace(/^"|"$/g, ""));
-    if (values.length < mappedHeaders.length) continue;
+    const values = splitCSVLine(lines[i]);
+    if (values.length < mappedHeaders.length) {
+      console.warn(`[CSV Parser] Row ${i} has fewer columns than headers. Skipping.`);
+      continue;
+    }
 
     const row = {};
     mappedHeaders.forEach((key, idx) => {
       row[key] = values[idx] || "";
     });
 
-    // If coordinates are missing, mock them within their state, or across India randomly
-    if (!row.latitude || !row.longitude) {
-      if (row.plaza_state && STATE_COORDS[row.plaza_state]) {
-        const [baseLat, baseLng] = STATE_COORDS[row.plaza_state];
-        // randomize within +/- 2 degrees of state center (~200km)
-        row.latitude = baseLat + (Math.random() * 4 - 2);
-        row.longitude = baseLng + (Math.random() * 4 - 2);
-      } else {
-        // Random spread across India (Lat: 10-30, Lng: 70-90)
-        row.latitude = 10 + Math.random() * 20;
-        row.longitude = 70 + Math.random() * 20;
-      }
-    } else {
-      row.latitude = parseFloat(row.latitude);
-      row.longitude = parseFloat(row.longitude);
+    // Ignore invalid or missing rows
+    if (!row.plaza_id) {
+      console.warn(`[CSV Parser] Row ${i} is missing PLAZA ID. Skipping.`);
+      continue;
     }
+
+    // Remove duplicates
+    if (uniqueIds.has(row.plaza_id)) {
+      console.warn(`[CSV Parser] Row ${i} has duplicate PLAZA ID: ${row.plaza_id}. Skipping.`);
+      continue;
+    }
+
+    // Validate coordinates - do not skip, just set to null if invalid so it shows in the table
+    let lat = null;
+    let lng = null;
+    
+    // First, try to use exact CSV coordinates if they exist
+    if (row.latitude && row.longitude) {
+      const parsedLat = parseFloat(row.latitude);
+      const parsedLng = parseFloat(row.longitude);
+      if (!isNaN(parsedLat) && !isNaN(parsedLng)) {
+        lat = parsedLat;
+        lng = parsedLng;
+      }
+    } 
+    
+    // Fallback: If no coordinates provided in CSV, pinpoint at the State's center
+    // Add a very small micro-jitter so multiple markers in the same state do not perfectly overlap and obscure each other.
+    if (lat === null || lng === null) {
+      if (row.plaza_state && STATE_COORDS[row.plaza_state]) {
+        // +/- 0.3 degrees offset (approx 30km) so they form a visible cluster
+        lat = STATE_COORDS[row.plaza_state][0] + (Math.random() * 0.6 - 0.3);
+        lng = STATE_COORDS[row.plaza_state][1] + (Math.random() * 0.6 - 0.3);
+      } else {
+        console.warn(`[CSV Parser] Row ${i} (Plaza ${row.plaza_id}) has no coordinates and no valid state mapped. Ignoring point.`);
+      }
+    }
+
+    // Add to dataset
+    uniqueIds.add(row.plaza_id);
+    row.latitude = lat;
+    row.longitude = lng;
     data.push(row);
   }
 
