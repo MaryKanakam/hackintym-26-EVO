@@ -2,17 +2,22 @@ import { supabase, isSupabaseConfigured } from "./supabaseClient";
 import { mockEvents } from "@/data/mockEvents";
 
 export async function getCityEvents() {
-  if (!isSupabaseConfigured) {
+  try {
+    if (!isSupabaseConfigured) {
+      throw new Error("Supabase not configured");
+    }
+
+    const { data, error } = await supabase
+      .from("city_events")
+      .select("*")
+      .order("start_time", { ascending: true });
+
+    if (error) throw error;
+    return data;
+  } catch (err) {
+    console.warn("[Events Service] Falling back to mock data:", err.message);
     return [...mockEvents];
   }
-
-  const { data, error } = await supabase
-    .from("city_events")
-    .select("*")
-    .order("start_time", { ascending: true });
-
-  if (error) throw error;
-  return data;
 }
 
 export function subscribeToEvents(callback) {

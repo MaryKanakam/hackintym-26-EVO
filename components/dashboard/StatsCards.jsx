@@ -8,8 +8,11 @@ import {
   ShieldAlert,
 } from "lucide-react";
 
+import { useLanguage } from "@/utils/LanguageContext";
+
 export default function StatsCards({ complaints, traffic, evStations, events, riskZones }) {
-  const activeComplaints = complaints.filter((c) => c.status !== "resolved").length;
+  const { t } = useLanguage();
+  const activeComplaints = complaints.length;
   const congestedZones = traffic.filter(
     (t) => t.congestion_level === "heavy" || t.congestion_level === "severe"
   ).length;
@@ -22,35 +25,35 @@ export default function StatsCards({ complaints, traffic, evStations, events, ri
 
   const stats = [
     {
-      label: "Active Complaints",
+      labelKey: "activeComplaints",
       value: activeComplaints,
       icon: AlertTriangle,
       color: "#dc2626",
       gradient: "from-red-600/20 to-red-900/5",
     },
     {
-      label: "Congested Zones",
+      labelKey: "congestedZones",
       value: congestedZones,
       icon: MapPin,
       color: "#f87171",
       gradient: "from-red-400/20 to-black/5",
     },
     {
-      label: "EV Offline",
+      labelKey: "evOffline",
       value: offlineEV,
       icon: ZapOff,
       color: "#9ca3af",
       gradient: "from-gray-600/20 to-black/5",
     },
     {
-      label: "Live Events",
+      labelKey: "liveEvents",
       value: liveEvents || events.length,
       icon: Calendar,
       color: "#ef4444",
       gradient: "from-red-500/20 to-red-800/5",
     },
     {
-      label: "High Risk Areas",
+      labelKey: "highRisk",
       value: highRisk,
       icon: ShieldAlert,
       color: "#991b1b",
@@ -61,7 +64,7 @@ export default function StatsCards({ complaints, traffic, evStations, events, ri
   return (
     <div className="stats-cards">
       {stats.map((stat) => (
-        <div key={stat.label} className={`stat-card bg-gradient-to-br ${stat.gradient}`}>
+        <div key={stat.labelKey} className={`stat-card bg-gradient-to-br ${stat.gradient}`}>
           <div className="stat-icon" style={{ color: stat.color }}>
             <stat.icon size={18} />
           </div>
@@ -69,7 +72,7 @@ export default function StatsCards({ complaints, traffic, evStations, events, ri
             <span className="stat-value" style={{ color: stat.color }}>
               {stat.value}
             </span>
-            <span className="stat-label">{stat.label}</span>
+            <span className="stat-label">{t(stat.labelKey)}</span>
           </div>
         </div>
       ))}

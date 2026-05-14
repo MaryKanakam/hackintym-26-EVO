@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 /* ========================================
-   CITY ONE — Design System
+   URBANSENSE — Design System
    ======================================== */
 
 :root {
@@ -29,8 +29,8 @@ body {
   background: var(--bg-primary);
   color: var(--text-primary);
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  overflow: hidden;
-  height: 100vh;
+  overflow-x: hidden;
+  min-height: 100vh;
 }
 
 /* ========================================
@@ -347,13 +347,15 @@ body {
   color: var(--text-secondary);
 }
 
-.popup-slots, .popup-score {
+.popup-slots,
+.popup-score {
   display: flex;
   flex-direction: column;
   gap: 4px;
 }
 
-.slots-bar, .score-bar {
+.slots-bar,
+.score-bar {
   width: 100%;
   height: 6px;
   background: rgba(255, 255, 255, 0.1);
@@ -374,7 +376,8 @@ body {
   transition: width 0.4s ease;
 }
 
-.slots-text, .score-text {
+.slots-text,
+.score-text {
   font-size: 11px;
   color: var(--text-secondary);
 }
@@ -382,7 +385,8 @@ body {
 /* ========================================
    LAYER TOGGLE
    ======================================== */
-.layer-toggle-panel, .filter-panel {
+.layer-toggle-panel,
+.filter-panel {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: 12px;
@@ -701,12 +705,30 @@ body {
   border-color: var(--border-hover);
 }
 
-.insight-danger { border-left: 3px solid #dc2626; }
-.insight-warning { border-left: 3px solid #ef4444; }
-.insight-orange { border-left: 3px solid #f87171; }
-.insight-purple { border-left: 3px solid #991b1b; }
-.insight-green { border-left: 3px solid #4ade80; } /* Keeping some green for positive status like online EV */
-.insight-blue { border-left: 3px solid #9ca3af; }
+.insight-danger {
+  border-left: 3px solid #dc2626;
+}
+
+.insight-warning {
+  border-left: 3px solid #ef4444;
+}
+
+.insight-orange {
+  border-left: 3px solid #f87171;
+}
+
+.insight-purple {
+  border-left: 3px solid #991b1b;
+}
+
+.insight-green {
+  border-left: 3px solid #4ade80;
+}
+
+/* Keeping some green for positive status like online EV */
+.insight-blue {
+  border-left: 3px solid #9ca3af;
+}
 
 .insight-item-icon {
   width: 28px;
@@ -748,7 +770,6 @@ body {
 .page-layout {
   padding-top: 56px;
   min-height: 100vh;
-  overflow-y: auto;
   background: var(--bg-primary);
 }
 
@@ -864,16 +885,19 @@ body {
   border: 1px solid var(--border-color);
   border-radius: 12px;
   padding: 18px;
-  transition: all 0.2s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   display: flex;
   flex-direction: column;
   gap: 12px;
+  box-shadow: 0 0 10px rgba(111, 1, 255, 0.05);
+  /* Subtle permanent glow */
 }
 
 .data-card:hover {
-  border-color: var(--border-hover);
-  transform: translateY(-2px);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+  border-color: var(--accent-primary);
+  transform: translateY(-4px);
+  box-shadow: 0 0 25px rgba(255, 52, 255, 0.25);
+  /* Stronger red glow on hover */
 }
 
 .data-card-header {
@@ -1030,17 +1054,35 @@ body {
    ANIMATIONS
    ======================================== */
 @keyframes spin {
-  to { transform: rotate(360deg); }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 @keyframes pulse-live {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.5; transform: scale(1.3); }
+
+  0%,
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.5;
+    transform: scale(1.3);
+  }
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(6px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* ========================================
@@ -1253,7 +1295,8 @@ body {
   transition: all 0.2s;
 }
 
-.toll-filter-toggle.active, .toll-filter-toggle:hover {
+.toll-filter-toggle.active,
+.toll-filter-toggle:hover {
   border-color: var(--accent-primary);
   color: var(--text-primary);
 }
@@ -1354,9 +1397,23 @@ body {
   letter-spacing: 0.5px;
 }
 
-.toll-type-national-highway { background: rgba(220, 38, 38, 0.15); color: #f87171; border: 1px solid rgba(220, 38, 38, 0.3); }
-.toll-type-state-highway { background: rgba(34, 197, 94, 0.15); color: #4ade80; border: 1px solid rgba(34, 197, 94, 0.3); }
-.toll-type-expressway { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }
+.toll-type-national-highway {
+  background: rgba(220, 38, 38, 0.15);
+  color: #f87171;
+  border: 1px solid rgba(220, 38, 38, 0.3);
+}
+
+.toll-type-state-highway {
+  background: rgba(34, 197, 94, 0.15);
+  color: #4ade80;
+  border: 1px solid rgba(34, 197, 94, 0.3);
+}
+
+.toll-type-expressway {
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
 
 .toll-chart-tooltip {
   background: var(--bg-card);

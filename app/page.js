@@ -45,14 +45,25 @@ export default function Dashboard() {
   const fetchData = useCallback(async () => {
     try {
       setIsLoading(true);
+      
+      // Individual fetchers with error handling to prevent one failure from blocking everything
+      const safeFetch = async (promise, name) => {
+        try {
+          return await promise;
+        } catch (e) {
+          console.error(`[Data Fetch] Error loading ${name}:`, e);
+          return []; // Return empty array on failure
+        }
+      };
+
       const [complaintsData, trafficData, evData, eventsData, riskData, tollsData] =
         await Promise.all([
-          getComplaints(filters),
-          getTrafficHotspots(),
-          getEVStations(),
-          getCityEvents(),
-          getRiskZones(),
-          getTollPlazas(),
+          safeFetch(getComplaints(filters), "Complaints"),
+          safeFetch(getTrafficHotspots(), "Traffic"),
+          safeFetch(getEVStations(), "EV Stations"),
+          safeFetch(getCityEvents(), "Events"),
+          safeFetch(getRiskZones(), "Risk Zones"),
+          safeFetch(getTollPlazas(), "Tolls"),
         ]);
 
       setComplaints(complaintsData);
@@ -62,7 +73,7 @@ export default function Dashboard() {
       setRiskZones(riskData);
       setTolls(tollsData);
     } catch (err) {
-      console.error("Failed to fetch data:", err);
+      console.error("Critical Dashboard Fetch Error:", err);
     } finally {
       setIsLoading(false);
     }

@@ -1,7 +1,7 @@
-# n8n Workflow Designs for City One
+# n8n Workflow Designs for urbanSense
 
 ## Overview
-These workflows automate data ingestion for the City One dashboard by simulating or processing city data and pushing it to Supabase.
+These workflows automate data ingestion for the urbanSense dashboard by simulating or processing city data and pushing it to Supabase.
 
 ---
 

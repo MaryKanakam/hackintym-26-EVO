@@ -76,17 +76,20 @@ export default function MapView({
 
         {/* Complaint Layer */}
         {activeLayers.has("complaints") &&
-          complaints.map((complaint) => (
-            <Marker
-              key={`complaint-${complaint.id}`}
-              position={[complaint.latitude, complaint.longitude]}
-              icon={createCategoryIcon(complaint.category)}
-            >
-              <Popup>
-                <ComplaintPopup data={complaint} />
-              </Popup>
-            </Marker>
-          ))}
+          complaints.map((complaint) => {
+            if (!complaint.latitude || !complaint.longitude) return null;
+            return (
+              <Marker
+                key={`complaint-${complaint.id}`}
+                position={[complaint.latitude, complaint.longitude]}
+                icon={createCategoryIcon(complaint.issue_type || complaint.category)}
+              >
+                <Popup>
+                  <ComplaintPopup data={complaint} />
+                </Popup>
+              </Marker>
+            );
+          })}
 
         {/* EV Station Layer */}
         {activeLayers.has("ev") &&

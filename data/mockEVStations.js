@@ -121,12 +121,12 @@ export const mockEVStations = [
   },
   {
     id: 13,
-    name: " charge -Kodambakkam ",
-    latitude: 45.0987,
-    longitude: 89.0976,
+    name: "Charge - Kodambakkam",
+    latitude: 13.0513,
+    longitude: 80.2206,
     status: "available",
     available_slots: 2,
     total_slots: 3,
-    updated_at: "2026-05-14T09:15:00L"
+    updated_at: "2026-05-14T09:15:00Z"
   }
 ];

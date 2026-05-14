@@ -1,4 +1,4 @@
--- City One — Supabase Database Migration
+-- urbanSense — Supabase Database Migration
 -- Run this in your Supabase SQL editor to set up all tables
 
 -- ========================================

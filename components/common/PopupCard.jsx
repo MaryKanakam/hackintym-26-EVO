@@ -11,12 +11,9 @@ export function ComplaintPopup({ data }) {
           {capitalize(data.severity)}
         </span>
       </div>
-      <p className="popup-desc">{data.description}</p>
+      <p className="popup-desc">{data.summary || data.description}</p>
       <div className="popup-meta">
-        <span className={`popup-badge ${getStatusBg(data.status)}`}>
-          {capitalize(data.status)}
-        </span>
-        <span className="popup-category">{capitalize(data.category)}</span>
+        <span className="popup-category">{capitalize(data.issue_type || data.category)}</span>
         <span className="popup-time">{timeAgo(data.created_at)}</span>
       </div>
     </div>

@@ -6,9 +6,12 @@ import { getEVStations } from "@/services/evService";
 import { getEVStatusBg, capitalize } from "@/utils/formatters";
 import { Zap, MapPin } from "lucide-react";
 
+import { useLanguage } from "@/utils/LanguageContext";
+
 export default function EVStationsPage() {
   const [stations, setStations] = useState([]);
   const [statusFilter, setStatusFilter] = useState("all");
+  const { t } = useLanguage();
 
   useEffect(() => {
     async function load() {
@@ -36,10 +39,10 @@ export default function EVStationsPage() {
             <div>
               <h1 className="page-title">
                 <Zap size={24} />
-                EV Charging Stations
+                {t("evStationsHeader")}
               </h1>
               <p className="page-subtitle">
-                {onlineCount}/{stations.length} online · {availableSlots}/{totalSlots} slots available
+                {onlineCount}/{stations.length} online · {availableSlots}/{totalSlots} {t("slotsAvailable")}
               </p>
             </div>
             <div className="page-filters">
@@ -49,7 +52,7 @@ export default function EVStationsPage() {
                   className={`page-filter-btn ${statusFilter === st ? "active" : ""}`}
                   onClick={() => setStatusFilter(st)}
                 >
-                  {st === "all" ? "All Stations" : capitalize(st)}
+                  {st === "all" ? t("allStations") : t(st)}
                 </button>
               ))}
             </div>
@@ -69,7 +72,7 @@ export default function EVStationsPage() {
                   <div className="data-card-header">
                     <div className="data-card-title">{station.name}</div>
                     <span className={`badge ${getEVStatusBg(station.status)}`}>
-                      {capitalize(station.status)}
+                      {t(station.status)}
                     </span>
                   </div>
 
@@ -82,7 +85,7 @@ export default function EVStationsPage() {
                     </div>
                     <div className="ev-slots-text">
                       <Zap size={12} style={{ display: "inline", verticalAlign: "middle" }} />{" "}
-                      {station.available_slots} of {station.total_slots} slots available
+                      {station.available_slots} of {station.total_slots} {t("slotsAvailable")}
                     </div>
                   </div>
 
@@ -97,7 +100,7 @@ export default function EVStationsPage() {
             })}
             {filtered.length === 0 && (
               <div style={{ gridColumn: "1 / -1", textAlign: "center", padding: 40, color: "var(--text-muted)" }}>
-                No stations match your filter
+                {t("noStations")}
               </div>
             )}
           </div>

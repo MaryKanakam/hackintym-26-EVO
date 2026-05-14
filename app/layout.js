@@ -2,10 +2,12 @@ import "./globals.css";
 import Chatbot from "@/components/common/Chatbot";
 
 export const metadata = {
-  title: "City One — Smart City Dashboard",
+  title: "urbanSense — Smart City Dashboard",
   description: "Map-first smart city dashboard that visualizes traffic hotspots, civic complaints, EV stations, public events, and area risk levels on a single interactive urban map.",
   keywords: ["smart city", "dashboard", "chennai", "urban intelligence", "traffic", "EV stations"],
 };
+
+import { LanguageProvider } from "@/utils/LanguageContext";
 
 export default function RootLayout({ children }) {
   return (
@@ -19,8 +21,10 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
-        {children}
-        <Chatbot />
+        <LanguageProvider>
+          {children}
+          <Chatbot />
+        </LanguageProvider>
       </body>
     </html>
   );

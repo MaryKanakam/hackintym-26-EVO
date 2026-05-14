@@ -2,17 +2,22 @@ import { supabase, isSupabaseConfigured } from "./supabaseClient";
 import { mockRiskZones } from "@/data/mockRiskZones";
 
 export async function getRiskZones() {
-  if (!isSupabaseConfigured) {
+  try {
+    if (!isSupabaseConfigured) {
+      throw new Error("Supabase not configured");
+    }
+
+    const { data, error } = await supabase
+      .from("risk_zones")
+      .select("*")
+      .order("risk_score", { ascending: false });
+
+    if (error) throw error;
+    return data;
+  } catch (err) {
+    console.warn("[Risk Service] Falling back to mock data:", err.message);
     return [...mockRiskZones];
   }
-
-  const { data, error } = await supabase
-    .from("risk_zones")
-    .select("*")
-    .order("risk_score", { ascending: false });
-
-  if (error) throw error;
-  return data;
 }
 
 export function calculateRiskScore(zone, complaints, traffic, events) {

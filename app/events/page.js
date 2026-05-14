@@ -6,9 +6,12 @@ import { getCityEvents } from "@/services/eventsService";
 import { getCrowdBg, capitalize, formatDateTime, formatDate, formatTime } from "@/utils/formatters";
 import { Calendar, MapPin, Users, Clock } from "lucide-react";
 
+import { useLanguage } from "@/utils/LanguageContext";
+
 export default function EventsPage() {
   const [events, setEvents] = useState([]);
   const [crowdFilter, setCrowdFilter] = useState("all");
+  const { t } = useLanguage();
 
   useEffect(() => {
     async function load() {
@@ -46,7 +49,7 @@ export default function EventsPage() {
                 <div className="data-card-title">{event.title}</div>
                 <span className={`badge ${getCrowdBg(event.crowd_level)}`}>
                   <Users size={10} style={{ display: "inline", verticalAlign: "middle", marginRight: 3 }} />
-                  {capitalize(event.crowd_level)}
+                  {t(event.crowd_level)}
                 </span>
               </div>
               <div className="data-card-desc">{event.description}</div>
@@ -78,9 +81,9 @@ export default function EventsPage() {
             <div>
               <h1 className="page-title">
                 <Calendar size={24} />
-                City Events
+                {t("eventsHeader")}
               </h1>
-              <p className="page-subtitle">{filtered.length} events total</p>
+              <p className="page-subtitle">{filtered.length} {t("events")} total</p>
             </div>
             <div className="page-filters">
               {["all", "low", "medium", "high"].map((level) => (
@@ -89,15 +92,15 @@ export default function EventsPage() {
                   className={`page-filter-btn ${crowdFilter === level ? "active" : ""}`}
                   onClick={() => setCrowdFilter(level)}
                 >
-                  {level === "all" ? "All Events" : `${capitalize(level)} Crowd`}
+                  {level === "all" ? t("all") : `${t(level)} ${t("congestion")}`}
                 </button>
               ))}
             </div>
           </div>
 
-          {renderSection("🔴 Ongoing Events", ongoing, "No ongoing events right now")}
-          {renderSection("🟡 Upcoming Events", upcoming, "No upcoming events")}
-          {renderSection("✅ Past Events", past, "No past events")}
+          {renderSection(`🔴 ${t("happeningNow")}`, ongoing, t("noEvents"))}
+          {renderSection(`🟡 ${t("upcoming")}`, upcoming, t("noEvents"))}
+          {renderSection(`✅ ${t("all")}`, past, t("noEvents"))}
         </div>
       </div>
     </>
